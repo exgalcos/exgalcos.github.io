@@ -97,7 +97,7 @@ _Biometrics_, 74, 458-471. [Article Link](https://onlinelibrary.wiley.com/doi/fu
 
 ### 2017
 
-Ayyala, D.N., Park, J. and Roy, A. (2017) _Testing for mean vector in High dimensional time series_<br>
+*Ayyala, D.N., Park, J. and Roy, A. (2017) _Testing for mean vector in High dimensional time series_<br>
 _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X16300999)
 
  Peterson, T.,  *Gauran, I.I.,  Park, J.,  Park, D. and  Kann, M. (2017). Oncodomains: A Protein Domain-Centric Framework for Analyzing Rare Variants in Tumor Samples <br> 
