@@ -52,6 +52,10 @@ _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sci
 
 *Choi, S. and Park, J. (2014). Plug-in tests for non-equivalence of means of independent normal populations, _Biometrical Journal_, 56, 1016-1034. 
 
+Park, J. and Park, D. (2012). Testing the equality of a large number of normal population means, _Computational Statistics and Data Analysis_, 46, 1131-1149.
+
+Greenshtein, E. and Park, J. (2012). Robust test for detecting a signal in a high dimensional sparse normal vector, _Journal of Statistical Planning and Inference_, 142, 1445-1456.
+
 Park, J. (2010). The Generalized P-value in one-sided testing in two sample multivariate normal populations, _Journal of Statistical Planning and Inference_, 140, 1044-1055.
 
 ### Classification
