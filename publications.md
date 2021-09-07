@@ -21,7 +21,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Testing homogeneity of proportions from sparse binomial data with a large number of groups_<br>
 J. Park<br>
- Annals of the Institute of Statistical Mathematics, 71, 505-535, 2019 (Article Link)
+ Annals of the Institute of Statistical Mathematics, 71, 505-535, 2019 [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051)
 
 
 <hr>
