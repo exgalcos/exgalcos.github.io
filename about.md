@@ -30,33 +30,46 @@ Hypothesis testing is
 
 
 Cao, M-X, Sun, P. and Park, J.  Simultaneous test of mean vector and covariance matrix in high dimensional settings, 
- _Journal of Statistical Planning and Inference_,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051) <br>
+ _Journal of Statistical Planning and Inference_,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051) 
+
 Cao, M., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data, 
-_Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub) <br>
+_Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub) 
+
 Park, J.  (2019) Testing homogeneity of proportions from sparse binomial data with a large number of groups, 
-_Annals of the Institute of Statistical Mathematics_, 71, 505-535.  [Article Link](https://link.springer.com/article/10.1007/s10463-018-0652-2) <br>
+_Annals of the Institute of Statistical Mathematics_, 71, 505-535.  [Article Link](https://link.springer.com/article/10.1007/s10463-018-0652-2) 
+
 Park, J. and *Gauran, I.I. (2019), Testing the homogeneity of risk differences with sparse count data, 
-_Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](https://www.tandfonline.com/doi/full/10.1080/02331888.2019.1675162) <br>
+_Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](https://www.tandfonline.com/doi/full/10.1080/02331888.2019.1675162) 
+
 *Ayyala, D.N., Park, J. and Roy, A. (2017) Mean vector testing for high-dimensional dependent observations, 
-_Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X16300999) <br>
-*Choi, S. and Park, J. (2014). Plug-in tests for non-equivalence of means of independent normal populations, _Biometrical Journal_, 56, 1016-1034. <br>
+_Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X16300999) 
+
+*Choi, S. and Park, J. (2014). Plug-in tests for non-equivalence of means of independent normal populations, _Biometrical Journal_, 56, 1016-1034. 
+
 Park, J. (2010). The Generalized P-value in one-sided testing in two sample multivariate normal populations, _Journal of Statistical Planning and Inference_, 140, 1044-1055.
 
 #### Classification
 
-*Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
-_Minor revision in Statistical Analysis and Data Mining_. <br>
+*Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances.  _Minor revision in Statistical Analysis and Data Mining_. 
+
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods, 
-_Tentatively accepted in Journal of Multivariate Analysis._  <br> 
+_Tentatively accepted in Journal of Multivariate Analysis._  
+
 Baek, S., *Park, H., and Park, J.  A High-Dimensional Classification Rule Using Sample Covariance Matrix Equipped With Adjusted Estimated Eigenvalues, 
- _STAT_ [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358) <br>
+ _STAT_ [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358) 
+
 Baek, S., *Kim, Y.,  Park, J. and Lee, J.  Revisit to Functional Data Analysis of Sleeping Energy Expenditure, 
-_Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457)
- Park, J. and Park, D. (2015). Stein’s method in High Dimensional Classification and Applications. _Computational Statistics and Data Analysis_, 82, 110-125. <br>
- *Choi, S. and Park, J. (2014). Nonparametric Additive Model with Grouped Lasso and Maximizing Area Under the ROC Curve, _Computational Statistics and Data Analysis_, 77, 313-325, 2014. <br>
+_Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457) 
+
+ Park, J. and Park, D. (2015). Stein’s method in High Dimensional Classification and Applications. _Computational Statistics and Data Analysis_, 82, 110-125. 
+
+ *Choi, S. and Park, J. (2014). Nonparametric Additive Model with Grouped Lasso and Maximizing Area Under the ROC Curve, _Computational Statistics and Data Analysis_, 77, 313-325, 2014. 
+
  Park, J. (2010) Independent rule in classification of multivariate binary data, _Journal of Multivariate Analysis_, 100, 2270-2286.
- Greenshtein, E. and Park, J.  (2009). Application of Non Parametric Empirical Bayes estimation to High Dimensional Classification, Journal of Machine Learning Research, 10, 1687-1704. <br>
- Greenshtein, E., Park, J. and Lebanon, G.  (2009). Regularization through variable selection and conditional MLE with application to classification in high dimension, _Journal of Statistical Planning and Inference_, 139, 385-395. <br>
+ Greenshtein, E. and Park, J.  (2009). Application of Non Parametric Empirical Bayes estimation to High Dimensional Classification, Journal of Machine Learning Research, 10, 1687-1704. 
+
+ Greenshtein, E., Park, J. and Lebanon, G.  (2009). Regularization through variable selection and conditional MLE with application to classification in high dimension, _Journal of Statistical Planning and Inference_, 139, 385-395. 
+ 
  Park, J. and Ghosh, J.K. (2007). Persistence of the Plug in Rule in Classification of High Dimensional Multivariate Binary Data. 
 _Journal of Statistical Planning and Inference_, Vol.137,  3687-3705.
 
