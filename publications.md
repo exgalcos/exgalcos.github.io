@@ -69,18 +69,37 @@ _Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](h
 Cao, M., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data.  <br>  
 _Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub)
 
+Choi, Y. Lim, J.,  Roy, A. and Park, J.  (2019). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage.  Journal of Multivariate   Analysis, 171, 234-249.  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X17307789)
+
+*Plunkett, A. and Park, J.  (2018). Two-sample test for sparse high-dimensional multinomial distributions <br>
+_TEST_  28, 804–826. [Article Link](https://link.springer.com/article/10.1007/s11749-018-0600-8)
+
 <hr>
 
 ### 2018
 
-Gauran, I.I., Park, J.,  Lim, J.,  Park,  D., Zylstra, J.,  Peterson, T., Kann, M. and  Spouge, J. 
-  _Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data  <br>
+*Ayyala, D.N., Roy, A., Park,J. and Rao, G. (2018)
+   Testing equality of autocorrelation matrices at lag zero: Application to Resting State Networks. <br>
+    Sankhya Ser. B, 80, 123-150.  [Article Link](https://link.springer.com/article/10.1007/s13571-017-0138-x)
+
+*Gauran, I.I., Park, J.,  Lim, J.,  Park,  D., Zylstra, J.,  Peterson, T., Kann, M. and  Spouge, J. (2018)
+  Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data  <br>
 _Biometrics_, 74, 458-471. [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12779)
 
+  Park, J.  (2018). Simultaneous Estimation based on Empirical Likelihood and Nonparametric Maximum Likelihood Estimation <br>
+   _Computational Statistics and Data Analysis_, 117, 19-31. [Article Link](https://www.sciencedirect.com/science/article/pii/S016794731730172X?via%3Dihub) 
 <hr>
 
 ### 2017
 
-_Testing for mean vector in High dimensional time series_<br>
-D. N. Ayyala, J. Park and A. Roy<br>
-Journal of Multivariate Analysis, 153, 136-155, 2017
+Ayyala, D.N., Park, J. and Roy, A. _Testing for mean vector in High dimensional time series_<br>
+_Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X16300999)
+
+ Peterson, T.,  *Gauran, I.I.,  Park, J.,  Park, D. and  Kann, M. (2017). Oncodomains: A Protein Domain-Centric Framework for Analyzing Rare Variants in Tumor Samples <br> 
+ _PLOS Computational Biology._  [Article Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005428)  <br>
+  (Selected as a winner of 2018 PLOS Computational Biology Research Prize)
+ 
+
+K. Chen, J. Park, F. Li, S. M. Patil and D. A. Keire (2017). Chemometric Methods to Quantify 1D and 2D NM Spectral Differences among Similar Protein Therapeutics, AAPS    PhamSciTech,   https://doi.org/10.1208/s12249-017-0911-1.
+A. Plunkett∗ and J. Park  (2017). Two sample testing of sparse high dimensional binary data. Communication in Statistics, Theory and Methods, 46, 11181-11193.
+ J. Park (2017). Tolerance Limit and Ridge Regression in the presence of Mulicollinearity and High Dimension, Statistics and Probability Letters, 121, 128-135.
