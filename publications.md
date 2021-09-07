@@ -111,7 +111,7 @@ _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sci
 
  Peterson, T.,  *Gauran, I.I.,  Park, J.,  Park, D. and  Kann, M. (2017). Oncodomains: A Protein Domain-Centric Framework for Analyzing Rare Variants in Tumor Samples <br> 
  _PLOS Computational Biology._  [Article Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005428)  <br>
-  (Selected as a winner of 2018 PLOS Computational Biology Research Prize)
+  _Selected as a winner of 2018 PLOS Computational Biology Research Prize_. 
  
 
 K. Chen, J. Park, F. Li, S. M. Patil and D. A. Keire (2017). Chemometric Methods to Quantify 1D and 2D NM Spectral Differences among Similar Protein Therapeutics <br> 
