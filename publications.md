@@ -9,6 +9,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+(* denotes student co-author)
+
 ###  Revision / Submitted 
 
 ### 2021 
