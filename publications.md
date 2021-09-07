@@ -18,7 +18,7 @@ Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction 
 _Minor revision in Statistical Analysis and Data Mining_. 
 
 
-*Gauran, I.M., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. 
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. 
 _Minor revision in Annals of Applied Statistics._   
 
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models
@@ -44,24 +44,39 @@ Baek, S., *Kim, Y.,  Park, J. and Lee, J.  Revisit to Functional Data Analysis o
 _Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457)
 
 
-
  Cao, M-X, Sun, P. and Park, J.  Simultaneous test of mean vector and covariance matrix in high dimensional settings <br>
  _Journal of Statistical Planning and Inference_,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051)
 
 
+M.-X. Cao, J.,Park, G.J. Shen. Φ-admissibil ity of linear estimators of common mean parameter in general multivariate linear models under a balanced loss function.  _Communication in Statistics: Theory and Method_ VOL. 50, 4050–4065. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1710757)
+
+
 ### 2020
+ D. Wang,  J. Park, ...., K. Chen.  An NMR Based Similarity Metric for Higher Order Structure Quality Assessment among U.S. Marketed Insulin Therapeutics <br>
+ _Journal of Pharmaceutical Sciences_,  109, 1519-1528. 
 
+
+
+### 2019
 J. Park Testing homogeneity of proportions from sparse binomial data with a large number of groups <br>
-_Annals of the Institute of Statistical Mathematics_, 71, 505-535, 2019 
+_Annals of the Institute of Statistical Mathematics_, 71, 505-535. 
 
+J. Park and A. Draganescu. Testing homogeneity of several normal population means based on interval hypotheses. 
+_Communication in Statistics: Simulation and Computation_. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2019.1639737)
+
+J. Park and *Gauran, I.I. (2019), Testing the homogeneity of risk differences with sparse count data. 
+_Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](https://www.tandfonline.com/doi/full/10.1080/02331888.2019.1675162)
+
+Cao, M., Park, J. and He, D.  A test for the k sample Behrens-Fisher problem in high dimensional data.   
+_Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub)
 
 <hr>
 
 ### 2018
 
-_Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data_<br>
-I.I. Gauran, J. Park, J. Lim, D. Park, J. Zylstra, T. Peterson, M. Kann, J. Spouge<br>
-Biometrics, 74, 458-471, 2018
+Gauran, I.I., Park, J.,  Lim, J.,  Park,  D., Zylstra, J.,  Peterson, T., Kann, M. and  Spouge, J. 
+  _Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data  <br>
+_Biometrics_, 74, 458-471. [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12779)
 
 <hr>
 
