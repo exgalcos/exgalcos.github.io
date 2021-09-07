@@ -20,11 +20,12 @@ _Minor revision in Statistical Analysis and Data Mining_.
 *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. 
 _Minor revision in Annals of Applied Statistics._   
 
-*Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models
+*Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
+_Submitted_.
 
-*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data
+*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Submitted_.
 
-*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm
+*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_.
 
 ### 2021 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
@@ -53,6 +54,9 @@ M.-X. Cao, J.,Park, G.J. Shen. Φ-admissibil ity of linear estimators of common 
 ### 2020
  Wang, D., Park, J., ...., Chen, K. (2020)  An NMR Based Similarity Metric for Higher Order Structure Quality Assessment among U.S. Marketed Insulin Therapeutics <br>
  _Journal of Pharmaceutical Sciences_,  109, 1519-1528. 
+
+ Lee, B. and Park, J. (2020) A Spectral Measure for the Information Loss of Temporal Aggregation <br>
+  _Journal of Statistical Theory and Practice._  [Article Link](https://link.springer.com/article/10.1007%2Fs42519-020-00099-3)  
 
 
 
@@ -110,4 +114,5 @@ Park, J. (2017). Tolerance Limit and Ridge Regression in the presence of Mulicol
 _Statistics and Probability Letters_, 121, 128-135. [Article Link](https://www.sciencedirect.com/science/article/pii/S0167715216302152)
 
 
-### ~2016[ResearchGate](https://www.researchgate.net/profile/Junyong-Park-10)
+### ~2016
+[ResearchGate](https://www.researchgate.net/profile/Junyong-Park-10)
