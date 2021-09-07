@@ -108,5 +108,5 @@ Park, J. and Davis, W. (2011). Estimating and testing conditional sums of means 
 Greenshtein, E., Park, J. and Ritov, Y. (2008). Estimating the mean of high valued observations in high dimensions, _Journal of Statistical Theory and Practice_, 2, 407-418.
 
 
-
+### Miscellaneous 
 
