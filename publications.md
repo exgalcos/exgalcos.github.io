@@ -12,8 +12,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 (* denotes student co-author)
 
 ###  _Revision_ 
-Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization. <br>
-Baek, S.  and  Park, J.  (2021+). 
+Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization. <br> 
 _Major revision in Computational Statistics._ 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
