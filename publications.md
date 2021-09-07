@@ -29,9 +29,13 @@ _Submitted_.
 
 *Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores, _In preparation_ 
 
+*Park, H. and Park, J. Estimation of normal mean vector under unknown and unequal variances and itsapplication to high dimensional classification.  _In preparation_
+
 Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function _In preparation_
 
 Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62  _In preparation_
+
+Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics inSufficient Dimension Reduction. _In preparation_
 
 ### 2021 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
