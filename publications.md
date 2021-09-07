@@ -92,7 +92,7 @@ _Biometrics_, 74, 458-471. [Article Link](https://onlinelibrary.wiley.com/doi/fu
 
 ### 2017
 
-Ayyala, D.N., Park, J. and Roy, A. _Testing for mean vector in High dimensional time series_<br>
+Ayyala, D.N., Park, J. and Roy, A. (2017) _Testing for mean vector in High dimensional time series_<br>
 _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X16300999)
 
  Peterson, T.,  *Gauran, I.I.,  Park, J.,  Park, D. and  Kann, M. (2017). Oncodomains: A Protein Domain-Centric Framework for Analyzing Rare Variants in Tumor Samples <br> 
@@ -100,6 +100,11 @@ _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sci
   (Selected as a winner of 2018 PLOS Computational Biology Research Prize)
  
 
-K. Chen, J. Park, F. Li, S. M. Patil and D. A. Keire (2017). Chemometric Methods to Quantify 1D and 2D NM Spectral Differences among Similar Protein Therapeutics, AAPS    PhamSciTech,   https://doi.org/10.1208/s12249-017-0911-1.
-A. Plunkett∗ and J. Park  (2017). Two sample testing of sparse high dimensional binary data. Communication in Statistics, Theory and Methods, 46, 11181-11193.
- J. Park (2017). Tolerance Limit and Ridge Regression in the presence of Mulicollinearity and High Dimension, Statistics and Probability Letters, 121, 128-135.
+K. Chen, J. Park, F. Li, S. M. Patil and D. A. Keire (2017). Chemometric Methods to Quantify 1D and 2D NM Spectral Differences among Similar Protein Therapeutics <br> 
+_AAPS  PhamSciTech_.     [Article Link](https://doi.org/10.1208/s12249-017-0911-1).
+
+*Plunkett, A. and Park, J. (2017). Two sample testing of sparse high dimensional binary data <br>
+_Communication in Statistics Theory and Methods_, 46, 11181-11193.  [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610926.2016.1260743)
+
+Park, J. (2017). Tolerance Limit and Ridge Regression in the presence of Mulicollinearity and High Dimension <br>
+_Statistics and Probability Letters_, 121, 128-135. [Article Link](https://www.sciencedirect.com/science/article/pii/S0167715216302152)
