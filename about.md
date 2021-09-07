@@ -4,9 +4,13 @@ permalink: /about/
 ---
 
 ### About us
-Our group is working on high dimensional data, hypothesis testing, classification, statistical inference.
+Our HDMPLab is working on high dimensional data, hypothesis testing, classification, statistical inference.
 
 ### Research
+
+
+## Multiple Testing 
+
 Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
 
 Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
@@ -15,9 +19,6 @@ We've pursued projects that involve handshake greetings, human movement, [cell-p
 
 The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
 
-### Lab Members
-
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://mthdlab.github.io/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 ### Lab Culture
 
@@ -31,6 +32,3 @@ Since our lab includes several fields, we don't have big lab meetings with every
 0. A lab hammock, hangboard, and art on loan from the Penn Museum
 0. Monday morning donuts @ 9:00am
 
-Every week, more or less, we chat about current lab practices and sometimes vote on new things.
-
-- [h](http://www.neurobio.pitt.edu/faculty/turner.htm)
