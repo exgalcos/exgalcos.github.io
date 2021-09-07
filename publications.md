@@ -29,9 +29,9 @@ _Submitted_.
 
 ### _In Preparation_
 
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores, 
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. 
 
-*Park, H. and Park, J. Estimation of normal mean vector under unknown and unequal variances and itsapplication to high dimensional classification.  
+*Park, H. and Park, J.  Estimation of normal mean vector under unknown and unequal variances. 
 
 Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function.
 
