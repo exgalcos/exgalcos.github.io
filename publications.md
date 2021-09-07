@@ -12,11 +12,20 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ###  Revision / Submitted 
 
 ### 2021 
+_High-dimensional linear discriminant analysis using nonparametric methods_ <br>
+*Park, H.,  Baek, S. and Park, J.  <br>
+Tentatively accepted in Journal of Multivariate Analysis.
+
+_Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data_ <br>
+Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. <br>
+Biometrical Journal   [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000256)
+
 _A High-Dimensional Classification Rule Using Sample Covariance Matrix Equipped With Adjusted Estimated Eigenvalues_ <br>
-Baek, S., *Park, H., and Park, J.  Stat [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358)
+Baek, S., *Park, H., and Park, J.  <br>
+ STAT [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358)
 
  _Revisit to Functional Data Analysis of Sleeping Energy Expenditure_ <br>
-Baek, S., *Kim, Y.,  Park, J. and Lee, J.   Journal of Applied Statistics <br> 
+Baek, S., *Kim, Y.,  Park, J. and Lee, J.   Journal of Applied Statistics 
 [Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457)
 
 
