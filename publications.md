@@ -73,10 +73,11 @@ _Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](h
 Cao, M., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data.  <br>  
 _Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub)
 
-Choi, Y. Lim, J.,  Roy, A. and Park, J.  (2019). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage.  Journal of Multivariate   Analysis, 171, 234-249.  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X17307789)
+Choi, Y. Lim, J.,  Roy, A. and Park, J.  (2019). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage <br>
+_Journal of Multivariate   Analysis_, 171, 234-249.  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X17307789)
 
 *Plunkett, A. and Park, J.  (2018). Two-sample test for sparse high-dimensional multinomial distributions <br>
-_TEST_  28, 804–826. [Article Link](https://link.springer.com/article/10.1007/s11749-018-0600-8)
+_TEST_ , 28, 804–826. [Article Link](https://link.springer.com/article/10.1007/s11749-018-0600-8)
 
 <hr>
 
@@ -84,7 +85,7 @@ _TEST_  28, 804–826. [Article Link](https://link.springer.com/article/10.1007/
 
 *Ayyala, D.N., Roy, A., Park,J. and Rao, G. (2018)
    Testing equality of autocorrelation matrices at lag zero: Application to Resting State Networks. <br>
-    Sankhya Ser. B, 80, 123-150.  [Article Link](https://link.springer.com/article/10.1007/s13571-017-0138-x)
+    _Sankhya Ser. B_, 80, 123-150.  [Article Link](https://link.springer.com/article/10.1007/s13571-017-0138-x)
 
 *Gauran, I.I., Park, J.,  Lim, J.,  Park,  D., Zylstra, J.,  Peterson, T., Kann, M. and  Spouge, J. (2018)
   Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data  <br>
