@@ -29,7 +29,7 @@ _Submitted_.
 
 ### 2021 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
-_Tentatively accepted in Journal of Multivariate Analysis._
+_Tentatively accepted in Journal of Multivariate Analysis._  
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
@@ -62,7 +62,7 @@ M.-X. Cao, J.,Park, G.J. Shen. Φ-admissibil ity of linear estimators of common 
 
 ### 2019
 Park, J.  (2019) Testing homogeneity of proportions from sparse binomial data with a large number of groups <br>
-_Annals of the Institute of Statistical Mathematics_, 71, 505-535. 
+_Annals of the Institute of Statistical Mathematics_, 71, 505-535.  [Article Link](https://link.springer.com/article/10.1007/s10463-018-0652-2)
 
 Park, J. and Draganescu, A. (2019) Testing homogeneity of several normal population means based on interval hypotheses. <br>
 _Communication in Statistics: Simulation and Computation_. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2019.1639737)
