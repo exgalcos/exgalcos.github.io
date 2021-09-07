@@ -12,7 +12,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ###  Revision / Submitted 
 
 ### 2021 
-
+ _Simultaneous test of mean vector and covariance matrix in high dimensional settings_<br>
+ Cao, M-X, Sun, P. and Park, J. 
+ Journal of Statistical Planning and Inference,  212,  141-152. (Article Link)
 
 
 ### 2020
