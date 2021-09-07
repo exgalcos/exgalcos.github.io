@@ -108,3 +108,6 @@ _Communication in Statistics Theory and Methods_, 46, 11181-11193.  [Article Lin
 
 Park, J. (2017). Tolerance Limit and Ridge Regression in the presence of Mulicollinearity and High Dimension <br>
 _Statistics and Probability Letters_, 121, 128-135. [Article Link](https://www.sciencedirect.com/science/article/pii/S0167715216302152)
+
+
+### ~2016[ResearchGate](https://www.researchgate.net/profile/Junyong-Park-10)
