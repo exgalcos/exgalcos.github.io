@@ -55,7 +55,7 @@ _Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/f
 
 
 Cao, M.X.,  Park, J. and  Shen, G.J. Φ-admissibil ity of linear estimators of common mean parameter in general multivariate linear models under a balanced loss function <br>
- _Communication in Statistics: Theory and Method_ VOL. 50, 4050–4065. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1710757)
+ _Communication in Statistics: Theory and Method,_  50, 4050–4065. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1710757)
 
 *Neha, A., Park, J. and Roy, A. (2021). Horseshoe and Strawderman-Berger Estimators for Non-negative Normal Means <br> 
 _Statistics and Applications_, 18, No. 2 (New Series),  1–21. [Article Link](https://www.ssca.org.in/media/22_Vol._18_No._2_2020_SA_Anindya__Roy.pdf)
