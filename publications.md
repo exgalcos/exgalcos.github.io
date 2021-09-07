@@ -11,7 +11,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 (* denotes student co-author)
 
-###  _Revision_ 
+###  _Revision_/_Submitted_ 
 Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization. <br> 
 _Major revision in Computational Statistics._ 
 
