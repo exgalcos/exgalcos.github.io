@@ -13,7 +13,7 @@ HDMTLab covers the following research areas.
 
 ### Multiple Testing 
 _Multiple testing procedures are playing a key role in high dimensional problem such as variable selection and dimension reduction and 
-genetics such as GWAS and protein domain data.  One major issue in multiple testing problem is to identifying the null distribution empirically.  We develop methods to estimate the null distribution based on mixture of well known distributions or empirical likelihood.  method.  Our current project includes some recent development of multiple testing procedures such as knockoff and mirror statistics._ 
+genetics such as GWAS and protein domain data.  One major issue in multiple testing problem is to identifying the null distribution empirically.  We develop methods to estimate the null distribution based on mixture of well known distributions or empirical likelihood.  method.  Our current project includes some recent development of multiple testing procedures such as [knockoff](https://web.stanford.edu/group/candes/knockoffs/), mirror statistics and data splitting._ 
 
 
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_. 
@@ -33,7 +33,7 @@ Park, D., Park, J.,  *Zhong, X. and Sadelain, M. (2011). Estimation of Empirical
 
 
 ### Hypothesis Testing 
-_Some classical idea of ombinus or global testing methods have been extended to high dimension dramatically for the last two decades. One typical problem is the extension of Hotelling's T test for testing equality of mean vector to high dimensional case. In meta analysis, testing the homogeneity of effect sizes or distributions from many different studies is important before we decide to combine all studies or consider random effect model to explain the variations among different studies.  Our research includes a variety of hypothesis testing problems such as high dimensional testing or some classifical testing prlblems in meta analysis._   
+_Some classical idea of ombinus or global testing methods have been extended to high dimension dramatically for the last two decades. One typical problem is the extension of Hotelling's T test for testing equality of mean vector to high dimensional case. In meta analysis, testing the homogeneity of effect sizes or distributions from many different studies is important before we decide to combine all studies or consider random effect model to explain the variations among different studies.  Our research includes a variety of hypothesis testing problems such as high dimensional testing or some classifical testing problems in meta analysis._   
 
 
 
@@ -55,6 +55,8 @@ _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sci
 *Choi, S. and Park, J. (2014). Plug-in tests for non-equivalence of means of independent normal populations, _Biometrical Journal_, 56, 1016-1034. 
 
 Park, J., Sinha, B.K. and Shah, A. (2013). Testing Interval Hypotheses for Scale Parameters in Gamma Distributions, _Statistics and Probability Letters_, 83, 2172-2178.
+
+Park, J. and *Ayyala, D.N. (2013). A test for the mean vector in large dimension and small sample, _Journal of Statistical Planning and Inference_, 143, 929-943.
 
 Park, J. and Park, D. (2012). Testing the equality of a large number of normal population means, _Computational Statistics and Data Analysis_, 46, 1131-1149.
 
@@ -99,7 +101,7 @@ _Journal of Statistical Planning and Inference_, Vol.137,  3687-3705.
 Park, J.  (2018). Simultaneous Estimation based on Empirical Likelihood and Nonparametric Maximum Likelihood Estimation, 
    _Computational Statistics and Data Analysis_, 117, 19-31. [Article Link](https://www.sciencedirect.com/science/article/pii/S016794731730172X?via%3Dihub) 
 
-Park, J. (2014). Shrinkage Estimator in Normal Mean Vector Estimation based on Conditional Maximum Likelihood, _Statistics and Probability Letter_, 93, 1-6. 
+Park, J. (2014). Shrinkage Estimator in Normal Mean Vector Estimation based on Conditional Maximum Likelihood, _Statistics and Probability Letters_, 93, 1-6. 
 
 Park, J.  (2012). Nonparametric Empirical Bayes Estimator in Simultaneous Estimation of Poisson Means and Application to Mass Spectrometry Data, _Journal of Nonparametric Statistics_, 24, 245-265.
 
@@ -109,4 +111,5 @@ Greenshtein, E., Park, J. and Ritov, Y. (2008). Estimating the mean of high valu
 
 
 ### Miscellaneous 
+
 
