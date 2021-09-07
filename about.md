@@ -40,7 +40,7 @@ _Some classical idea of ombinus or global testing methods have been extended to 
 Cao, M-X, Sun, P. and Park, J.  Simultaneous test of mean vector and covariance matrix in high dimensional settings, 
  _Journal of Statistical Planning and Inference_,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051) 
 
-Cao, M., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data, 
+Cao, M-X., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data, 
 _Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub) 
 
 Park, J.  (2019) Testing homogeneity of proportions from sparse binomial data with a large number of groups, 
