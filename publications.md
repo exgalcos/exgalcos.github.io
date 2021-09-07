@@ -10,7 +10,7 @@ For those interested in numbers, see junyongpark's [ResearchGate](https://www.re
 
 (* denotes student co-author)
 
-###  _Revision_/_Submitted_ 
+###  _Revision_/_Submitted_/_In Preparation_ 
 Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Major revision in Computational Statistics._ 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
@@ -26,6 +26,12 @@ _Submitted_.
 *Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Submitted_.
 
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_.
+
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores, _In preparation_ 
+
+Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function _In preparation_
+
+Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62  _In preparation_
 
 ### 2021 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
@@ -49,6 +55,9 @@ _Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/f
 
 
 M.-X. Cao, J.,Park, G.J. Shen. Φ-admissibil ity of linear estimators of common mean parameter in general multivariate linear models under a balanced loss function.  _Communication in Statistics: Theory and Method_ VOL. 50, 4050–4065. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1710757)
+
+*Neha, A., Park, J. and Roy, A. (2021). Horseshoe and Strawderman-Berger Estimators for Non-negative Normal Means <br> 
+_Statistics and Applications_, 18, No. 2 (New Series),  1–21. [Article Link](https://www.ssca.org.in/media/22_Vol._18_No._2_2020_SA_Anindya__Roy.pdf)
 
 
 ### 2020
