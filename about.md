@@ -6,16 +6,18 @@ permalink: /about/
 ### About us
 Our HDMPLab is working on high dimensional data, hypothesis testing, classification, statistical inference.
 
-### Research
+## Research
+
+HDMTLab covers the following research areas. 
 
 
-#### Multiple Testing 
+### Multiple Testing 
 Multiple testing procedures are playing a key role in high dimensional problem such as variable selection and dimension reduction and 
 genetics such as GWAS and protein domain data.  One major issue in multiple testing problem is to identifying the null distribution empirically.  We develop methods to estimate the null distribution based on mixture of well known distributions or empirical likelihood.  method 
 
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_. 
 
- *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. _Minor revision in Annals of Applied Statistics._   
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. _Minor revision in Annals of Applied Statistics._   
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data, 
@@ -25,11 +27,11 @@ _Biometrical Journal_   [Article Link](https://onlinelibrary.wiley.com/doi/full/
   Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data, 
 _Biometrics_, 74, 458-471. [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12779) <br>
 
- Park, D., Park, J.,  *Zhong, X. and Sadelain, M. (2011). Estimation of Empirical Null Using a Mixture of Normals and Its Use in Local False Discovery Rate,  
+Park, D., Park, J.,  *Zhong, X. and Sadelain, M. (2011). Estimation of Empirical Null Using a Mixture of Normals and Its Use in Local False Discovery Rate,  
  _Computational Statistics and Data Analysis_, 55, 2421-2432. [Article Link](https://www.sciencedirect.com/science/article/pii/S0167947311000545?via%3Dihub)
 
 
-#### Hypothesis Testing 
+### Hypothesis Testing 
 Hypothesis testing is 
 
 
@@ -52,7 +54,7 @@ _Journal of Multivariate Analysis_, 153, 136-155. [Article Link](https://www.sci
 
 Park, J. (2010). The Generalized P-value in one-sided testing in two sample multivariate normal populations, _Journal of Statistical Planning and Inference_, 140, 1044-1055.
 
-#### Classification
+### Classification
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances.  _Minor revision in Statistical Analysis and Data Mining_. 
 
@@ -78,7 +80,7 @@ _Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/f
  Park, J. and Ghosh, J.K. (2007). Persistence of the Plug in Rule in Classification of High Dimensional Multivariate Binary Data. 
 _Journal of Statistical Planning and Inference_, Vol.137,  3687-3705.
 
-#### Mean Vector Estimation 
+### Mean Vector Estimation 
 
 *Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Submitted_.
 
