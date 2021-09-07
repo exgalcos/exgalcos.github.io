@@ -3,12 +3,10 @@ title: About
 permalink: /about/
 ---
 
-### About us
-Our HDMPLab is working on high dimensional data, hypothesis testing, classification, statistical inference.
 
 ## Research
 
-HDMTLab covers the following research areas. 
+HDMTLab covers a variety of research areas including high dimensional data analysis and classical areas. 
 
 
 ### Multiple Testing 
