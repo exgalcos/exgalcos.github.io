@@ -51,22 +51,22 @@ M.-X. Cao, J.,Park, G.J. Shen. Φ-admissibil ity of linear estimators of common 
 
 
 ### 2020
- D. Wang,  J. Park, ...., K. Chen.  An NMR Based Similarity Metric for Higher Order Structure Quality Assessment among U.S. Marketed Insulin Therapeutics <br>
+ Wang, D., Park, J., ...., Chen, K. (2020)  An NMR Based Similarity Metric for Higher Order Structure Quality Assessment among U.S. Marketed Insulin Therapeutics <br>
  _Journal of Pharmaceutical Sciences_,  109, 1519-1528. 
 
 
 
 ### 2019
-J. Park Testing homogeneity of proportions from sparse binomial data with a large number of groups <br>
+Park, J.  (2019) Testing homogeneity of proportions from sparse binomial data with a large number of groups <br>
 _Annals of the Institute of Statistical Mathematics_, 71, 505-535. 
 
-J. Park and A. Draganescu. Testing homogeneity of several normal population means based on interval hypotheses. 
+Park, J. and Draganescu, A. (2019) Testing homogeneity of several normal population means based on interval hypotheses. <br>
 _Communication in Statistics: Simulation and Computation_. [Article Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2019.1639737)
 
-J. Park and *Gauran, I.I. (2019), Testing the homogeneity of risk differences with sparse count data. 
+Park, J. and *Gauran, I.I. (2019), Testing the homogeneity of risk differences with sparse count data. <br>
 _Statistics:A Journal of Theoretical and Applied Statistics_.   [Article Link](https://www.tandfonline.com/doi/full/10.1080/02331888.2019.1675162)
 
-Cao, M., Park, J. and He, D.  A test for the k sample Behrens-Fisher problem in high dimensional data.   
+Cao, M., Park, J. and He, D.  (2019)  A test for the k sample Behrens-Fisher problem in high dimensional data.  <br>  
 _Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375818303562?via%3Dihub)
 
 <hr>
