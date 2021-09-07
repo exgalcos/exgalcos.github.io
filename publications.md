@@ -30,33 +30,31 @@ _Minor revision in Annals of Applied Statistics._
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm
 
 ### 2021 
-_High-dimensional linear discriminant analysis using nonparametric methods_ <br>
-*Park, H.,  Baek, S. and Park, J.  <br>
-Tentatively accepted in Journal of Multivariate Analysis.
+*Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
+_Tentatively accepted in Journal of Multivariate Analysis._
 
-_Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data_ <br>
-Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. <br>
-Biometrical Journal   [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000256)
-
-_A High-Dimensional Classification Rule Using Sample Covariance Matrix Equipped With Adjusted Estimated Eigenvalues_ <br>
-Baek, S., *Park, H., and Park, J.  <br>
- STAT [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358)
-
- _Revisit to Functional Data Analysis of Sleeping Energy Expenditure_ <br>
-Baek, S., *Kim, Y.,  Park, J. and Lee, J.   Journal of Applied Statistics 
-[Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457)
+Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
+Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
+_Biometrical Journal_   [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000256)
 
 
- _Simultaneous test of mean vector and covariance matrix in high dimensional settings_<br>
- Cao, M-X, Sun, P. and Park, J. <br>
- Journal of Statistical Planning and Inference,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051)
+Baek, S., *Park, H., and Park, J.  A High-Dimensional Classification Rule Using Sample Covariance Matrix Equipped With Adjusted Estimated Eigenvalues <br>
+ _STAT_ [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358)
+
+
+Baek, S., *Kim, Y.,  Park, J. and Lee, J.  Revisit to Functional Data Analysis of Sleeping Energy Expenditure  <br>
+_Journal of Applied Statistics_ [Article Link](https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1838457)
+
+
+
+ Cao, M-X, Sun, P. and Park, J.  Simultaneous test of mean vector and covariance matrix in high dimensional settings <br>
+ _Journal of Statistical Planning and Inference_,  212,  141-152. [Article Link](https://www.sciencedirect.com/science/article/pii/S0378375820301051)
 
 
 ### 2020
 
-_Testing homogeneity of proportions from sparse binomial data with a large number of groups_<br>
-J. Park<br>
- Annals of the Institute of Statistical Mathematics, 71, 505-535, 2019 
+J. Park Testing homogeneity of proportions from sparse binomial data with a large number of groups <br>
+_Annals of the Institute of Statistical Mathematics_, 71, 505-535, 2019 
 
 
 <hr>
