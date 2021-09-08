@@ -1,8 +1,8 @@
 ---
-title: How to have productive meetings with busy mentors
-description: Tips for new graduate students
+title: Multiple Testing
+description: Multiple Testing
 categories: newblog
-header-img: /images/snu_main.png
+header-img: images/snu_main.jpg
 ---
 
 ## Multiple Testing
