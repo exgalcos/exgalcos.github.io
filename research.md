@@ -5,7 +5,7 @@ permalink: /research/
 
 ## **Research**
 
-HDMTLab covers a variety of research areas including high dimensional data analysis and classical areas.
+HDMTLab covers a variety of research areas including high dimensional data analysis and classical areas.<br><br>
 
 
 <div class="content list">
