@@ -6,7 +6,7 @@ permalink: /research/
 ### **Blog posts from the lab**
 
 <div class="content list">
-  {% for post in site.posts %}
+  {% for post in site.research %}
     {% if post.categories contains 'newblog' %}
     <div class="list-item">
       <p class="list-post-title">
