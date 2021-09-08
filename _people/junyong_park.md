@@ -15,11 +15,11 @@ Department of Statistics, Seoul National University, Building 25 Room 326 <br>
 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Korea
 
 **Research Area**<br>
-Hypothesis testing in high dimension
-Multiple testing
-Classification in high dimension
-Bioinformatics
-Meta Analysis
+Hypothesis testing in high dimension<br>
+Multiple testing<br>
+Classification in high dimension<br>
+Bioinformatics<br>
+Meta Analysis<br>
 
 **Degrees**<br>
 PhD in Statistics, Purdue University in 2006
