@@ -3,7 +3,10 @@ title: Research
 permalink: /research/
 ---
 
-### **Blog posts from the lab**
+## **Research**
+
+HDMTLab covers a variety of research areas including high dimensional data analysis and classical areas.
+
 
 <div class="content list">
   {% for post in site.posts %}
