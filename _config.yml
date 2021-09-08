@@ -1,11 +1,11 @@
 # Basic
 name:               "High Dimensional Multiple Testing Lab"
-title:              "High Dimensional Multiple Testing Lab"
+title:              "HDMT Lab."
 description:        "this is a page for high dimensional multiple testing lab at the Seoul National University, South Korea"
 
 
 # URL
-url:                http://mthdlab.github.io
+url:                http://hdmtlab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -22,6 +22,8 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
+  - name:           "research"
+    href:           "/research"
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
