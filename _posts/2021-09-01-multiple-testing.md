@@ -7,8 +7,8 @@ header-img: images/snu_main.jpg
 
 ## Multiple Testing
 
-_Multiple testing procedures are playing a key role in high dimensional problem such as variable selection and dimension reduction and 
-genetics such as GWAS and protein domain data.  One major issue in multiple testing problem is to identifying the null distribution empirically.  We develop methods to estimate the null distribution based on mixture of well known distributions or empirical likelihood.  method.  Our current projects include some recent development of multiple testing procedures such as [knockoff](https://web.stanford.edu/group/candes/knockoffs/), mirror statistics and data splitting._ 
+Multiple testing procedures are playing a key role in high dimensional problem such as variable selection and dimension reduction and 
+genetics such as GWAS and protein domain data.  One major issue in multiple testing problem is to identifying the null distribution empirically.  We develop methods to estimate the null distribution based on mixture of well known distributions or empirical likelihood.  method.  Our current projects include some recent development of multiple testing procedures such as [knockoff](https://web.stanford.edu/group/candes/knockoffs/), mirror statistics and data splitting.
 
 
 ## Related Publications
