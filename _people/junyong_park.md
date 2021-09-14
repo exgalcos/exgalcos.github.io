@@ -21,11 +21,13 @@ Classification in high dimension<br>
 Bioinformatics<br>
 Meta Analysis<br>
 
-**Degrees**<br>
-PhD in Statistics, Purdue University in 2006
-
+**Education**<br>
+PhD in Statistics, Purdue University in 2006. Aug <br>
+M.S. in Statistics, Seoul National University, 1997. Feb <bf>
+B.S. in Statistics, Seoul National University, 1995. Feb  
+ 
 **Biography**<br>
-Dr. Park obtained his Ph.D. degree in statistics from Purdue University fall 2006<br>
+Military service (1997. Aug - 1999. Oct)  <br>
 Assistant Professor (2006. Aug - 2012. Jul), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
 Associate Professor with tenure (2012. Aug - 2019. Jul)   Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
 Professor (2019. Aug - 2020. Jan), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
