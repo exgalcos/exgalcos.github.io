@@ -3,12 +3,11 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see junyongpark's [ResearchGate](https://www.researchgate.net/profile/Junyong-Park-10).
 
 
 <hr>
 
-(* denotes student co-author)
+(* denotes advisee co-author)
 
 ###  _Revision_/_Submitted_
 Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Major revision in Computational Statistics._ 
