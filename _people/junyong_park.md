@@ -39,7 +39,7 @@ Yewon Kim (Ph.D. candidate at  UMBC) <br>
 Neha Agarwala  (Ph.D. candidate at UMBC) <br>
 Soyeon Lim (MS, SNU) <br>
 Dohyup Shin (MS, SNU) <br>
-Myungjoon Kim (MS, SNU) <br>
+Myungjun Kim (MS, SNU) <br>
 Seungyup Hyun (MS. SNU) <br>
 
 
