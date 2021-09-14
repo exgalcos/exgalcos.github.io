@@ -27,10 +27,10 @@ M.S. in Statistics, Seoul National University, 1997. Feb <bf>
 B.S. in Statistics, Seoul National University, 1995. Feb  
  
 **Biography**<br>
-Military service (1997. Aug - 1999. Oct)  <br>
-Assistant Professor (2006. Aug - 2012. Jul), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
-Associate Professor with tenure (2012. Aug - 2019. Jul)   Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
-Professor (2019. Aug - 2020. Jan), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
 Professor with tenure (2020. Feb - current)  Department of Statistics, Seoul National University from Feb 2020<br>
+Professor (2019. Aug - 2020. Jan), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Associate Professor with tenure (2012. Aug - 2019. Jul)   Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Assistant Professor (2006. Aug - 2012. Jul), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Military service (1997. Aug - 1999. Oct)  <br>
 
 
