@@ -22,8 +22,8 @@ Bioinformatics<br>
 Meta Analysis<br>
 
 **Education**<br>
-PhD in Statistics, Purdue University in 2006. Aug <br>
-M.S. in Statistics, Seoul National University, 1997. Feb <bf>
+Ph.D. in Statistics, Purdue University in 2006. Aug <br>
+M.S. in Statistics, Seoul National University, 1997. Feb <br>
 B.S. in Statistics, Seoul National University, 1995. Feb  
  
 **Biography**<br>
