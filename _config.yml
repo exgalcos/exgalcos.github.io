@@ -20,8 +20,6 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
   - name:           "research"
     href:           "/research"
   - name:           "publications"
