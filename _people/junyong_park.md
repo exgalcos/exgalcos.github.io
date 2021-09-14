@@ -26,11 +26,9 @@ PhD in Statistics, Purdue University in 2006
 
 **Biography**<br>
 Dr. Park obtained his Ph.D. degree in statistics from Purdue University fall 2006<br>
-Professor in the department of Mathematics and Statistics at University of Maryland Baltimore County<br>
-Professor in the department of Statistics, Seoul National University from Feb 2020<br>
+Assistant Professor (2006. Aug - 2012. Jul), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Associate Professor with tenure (2012. Aug - 2019. Jul)   Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Professor (2019. Aug - 2020. Jan), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
+Professor with tenure (2020. Feb - current)  Department of Statistics, Seoul National University from Feb 2020<br>
 
 
-**Selected Publications**<br>
-J. Park (2019). Testing homogeneity of proportions from sparse binomial data with a large number of groups. Annals of the Institute of Statistical Mathematics, 71, 505-535.<br>
-I.I. Gauran, J. Park, J. Lim, D. Park, J. Zylstra, T. Peterson, M. Kann, J. Spouge (2018). Empirical Null Estimation using Discrete Mixture Distributions and its Application to Protein Domain Data. Biometrics, 74, 458-471.<br>
-D. N. Ayyala, J. Park and A. Roy (2017). Testing for mean vector in High dimensional time series, Journal of Multivariate Analysis, 153, 136-155.<br>
