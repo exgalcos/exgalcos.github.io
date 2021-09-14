@@ -37,7 +37,7 @@ Military service (1997. Aug - 1999. Oct)  <br>
 **Current Graduate Students(SNU, UMBC)** <br>
 Yewon Kim (Ph.D. candidate at  UMBC) <br>
 Neha Agarwala  (Ph.D. candidate at UMBC) <br>
-Soyeon Lim (PhD/MS combined, SNU) <br>
+Soyeon Lim (MS, SNU) <br>
 Dohyup Shin (MS, SNU) <br>
 Myungjoon Kim (MS, SNU) <br>
 Seungyup Hyun (MS. SNU) <br>
