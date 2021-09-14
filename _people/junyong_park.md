@@ -34,3 +34,20 @@ Assistant Professor (2006. Aug - 2012. Jul), Department of Mathematics and Stati
 Military service (1997. Aug - 1999. Oct)  <br>
 
 
+**Current Graduate Students(SNU, UMBC)** <br>
+Yewon Kim (Ph.D. candidate at  UMBC) <br>
+Neha Agarwala  (Ph.D. candidate at UMBC) <br>
+Soyeon Lim (PhD/MS combined, SNU) <br>
+Dohyup Shin (MS, SNU) <br>
+Myungjoon Kim (MS, SNU) <br>
+Seungyup Hyun (MS. SNU) <br>
+
+
+**Past Students(SNU, UMBC)** <br>
+ 
+Hoyoung Park (Postdoc fellow in NIH, Ph.D.  Seoul National University, 2021) <br>
+Iris Ivy Gauran (Postdoc fellow, KAUST, Ph.D. UMBC, 2018, joint with Dr. Dohwan Park)  <br>
+Amanda Plunkett (National Security Agency in the U.S.  Ph.D. UMBC, 2015)   <br>
+Sungwoo Choi (Food and Drug Administration  in the U.S.  Ph.D. UMBC, 2014)  <br>
+Deepak Ayyala (Augusta University in the U.S. Ph.D. UMBC, 2013,  joint with Dr. Anindya Roy) 
+
