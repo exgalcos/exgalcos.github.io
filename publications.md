@@ -37,7 +37,7 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 
 ### 2021 
 
-Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   
 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
 _Accepted in Journal of Multivariate Analysis._  
