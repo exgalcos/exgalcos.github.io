@@ -15,7 +15,7 @@ Sample explanation.
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances.  _Minor revision in Statistical Analysis and Data Mining_. 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High-dimensional linear discriminant analysis using nonparametric methods, 
-_Tentatively accepted in Journal of Multivariate Analysis._  
+_Accepted in Journal of Multivariate Analysis._  
 
 Baek, S., *Park, H., and Park, J.  (2021+) A High-Dimensional Classification Rule Using Sample Covariance Matrix Equipped With Adjusted Estimated Eigenvalues, 
  _STAT_ [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.358) 
