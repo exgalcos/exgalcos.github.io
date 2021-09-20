@@ -16,9 +16,6 @@ Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction 
 _Minor revision in Statistical Analysis and Data Mining_. 
 
 
-*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. 
-_Minor revision in Annals of Applied Statistics._   
-
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
 _Submitted_.
 
@@ -39,8 +36,12 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics inSufficient Dimension Reduction.
 
 ### 2021 
+
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains. 
+_Accepted in Annals of Applied Statistics._   
+
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
-_Tentatively accepted in Journal of Multivariate Analysis._  
+_Accepted in Journal of Multivariate Analysis._  
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
