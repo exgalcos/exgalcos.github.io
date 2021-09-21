@@ -12,8 +12,6 @@ permalink: /publication/
 ###  _Revision_/_Submitted_
 Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Major revision in Computational Statistics._ 
 
-*Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
-_Minor revision in Statistical Analysis and Data Mining_. 
 
 
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
@@ -36,6 +34,10 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics inSufficient Dimension Reduction.
 
 ### 2021 
+
+*Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
+_Accepted in Statistical Analysis and Data Mining_. 
+
 
 *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   
 
