@@ -93,12 +93,14 @@ _Journal of Statistical Planning and Inference_, 201, 86-102. [Article Link](htt
 Choi, Y. Lim, J.,  Roy, A. and Park, J.  (2019). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage <br>
 _Journal of Multivariate   Analysis_, 171, 234-249.  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X17307789)
 
-*Plunkett, A. and Park, J.  (2018). Two-sample test for sparse high-dimensional multinomial distributions <br>
-_TEST_ , 28, 804–826. [Article Link](https://link.springer.com/article/10.1007/s11749-018-0600-8)
 
 <hr>
 
 ### 2018
+
+*Plunkett, A. and Park, J.  (2018). Two-sample test for sparse high-dimensional multinomial distributions <br>
+_TEST_ , 28, 804–826. [Article Link](https://link.springer.com/article/10.1007/s11749-018-0600-8)
+
 
 *Ayyala, D.N., Roy, A., Park,J. and Rao, G. (2018)
    Testing equality of autocorrelation matrices at lag zero: Application to Resting State Networks. <br>
