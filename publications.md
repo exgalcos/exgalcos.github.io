@@ -42,7 +42,8 @@ _Accepted in Statistical Analysis and Data Mining_.
 *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   
 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
-_Accepted in Journal of Multivariate Analysis._  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub) 
+_Accepted in Journal of Multivariate Analysis._  
+[Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub) 
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
