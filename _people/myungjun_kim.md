@@ -31,7 +31,7 @@ Hi! I am a graduate student in the High Dimensional Multiple Testing Lab(2021.06
 
 ### Research Intersts
 
-* High Dimensional Classfication
+* High Dimensional Classification
 * Business Intelligence
 * Statistical Learning and its applications
 
