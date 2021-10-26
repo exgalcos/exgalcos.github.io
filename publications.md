@@ -15,7 +15,7 @@ Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction 
 
 
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Submitted_.
+_Revision Submitted_.
 
 *Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Submitted_.
 
