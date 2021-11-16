@@ -1,6 +1,6 @@
 ---
 name: Kyuhwan Kim
-position: gradstudent
+position: phd
 avatar: kyuhwan_kim.png
 twitter:
 joined: 2021
