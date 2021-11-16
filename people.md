@@ -16,15 +16,15 @@ permalink: /people/
 {% endif %}
 
 <div class="pos_header">
- {% elsif role == 'pi' %}
+{% if role == 'pi' %}
 <h3>Principal Investigator</h3>
-{% if role == 'postdoc' %}
+{% elsif role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
 {% elsif role == 'phd' %}
 <h3>Ph. D. Course Students</h3>
- {% elsif role == 'ms' %}
+{% elsif role == 'ms' %}
 <h3>Master Course Students</h3>
- {% elsif role == 'alumni' %}
+{% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
 </div>
