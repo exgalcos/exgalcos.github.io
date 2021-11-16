@@ -1,5 +1,5 @@
 ---
-name: JunYong Park
+name: Junyong Park
 position: pi
 avatar: junyong_park.png
 ---

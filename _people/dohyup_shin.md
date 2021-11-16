@@ -1,5 +1,5 @@
 ---
-name: DoHyup Shin
+name: Dohyup Shin
 position: gradstudent
 avatar: dohyup_shin.png
 twitter:

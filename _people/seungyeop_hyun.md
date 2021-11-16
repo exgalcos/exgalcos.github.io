@@ -1,7 +1,7 @@
 ---
-name: SeungYup Hyun
+name: Seungyeop Hyun
 position: gradstudent
-avatar: seungyup_hyun.png
+avatar: seungyeop_hyun.png
 twitter:
 joined: 2021
 ---

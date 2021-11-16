@@ -1,5 +1,5 @@
 ---
-name: MyungJun Kim
+name: Myungjun Kim
 position: gradstudent
 avatar: myungjun_kim.png
 twitter:
