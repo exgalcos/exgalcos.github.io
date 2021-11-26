@@ -10,14 +10,14 @@ permalink: /publication/
 (* denotes advisee co-author at SNU/UMBC)
 
 ###  _Revision_/_Submitted_
-Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Major revision in Computational Statistics._ 
+Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Revision submitted to Computational Statistics._ 
 
 
 
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Revision Submitted_.
+_Revision Submitted to Statistics in Medicine_.
 
-*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Submitted_.
+*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision_.
 
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_.
 
