@@ -3,9 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-
-
-<hr>
+## **Publications**
 
 (* denotes advisee co-author at SNU/UMBC)
 
@@ -19,7 +17,7 @@ _Revision Submitted to Statistics in Medicine_.
 
 *Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision_.
 
-*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using  empirical likelihood with a fast algorithm. _Submitted_.
+*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
 
 ### _In Preparation_
 
@@ -31,7 +29,7 @@ Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function.
 
 Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62. 
 
-Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics inSufficient Dimension Reduction.
+Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
 ### 2021 
 

@@ -1,6 +1,6 @@
 ---
-name: MyungJun Kim
-position: gradstudent
+name: Myungjun Kim
+position: ms
 avatar: myungjun_kim.png
 twitter:
 joined: 2021

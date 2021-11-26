@@ -1,6 +1,6 @@
 ---
-name: DoHyup Shin
-position: gradstudent
+name: Dohyup Shin
+position: ms
 avatar: dohyup_shin.png
 twitter:
 joined: 2021

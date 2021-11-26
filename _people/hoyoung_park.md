@@ -1,5 +1,5 @@
 ---
-name: HoYoung Park
+name: Hoyoung Park
 position: alumni
 avatar: hoyoung_park.png
 twitter:
