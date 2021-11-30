@@ -33,7 +33,7 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 ### 2021 
 
 Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
-  _Accepted Computational Statistics._ 
+  _Accepted in Computational Statistics._ 
 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
