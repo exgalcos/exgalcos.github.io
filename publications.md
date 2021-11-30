@@ -37,13 +37,14 @@ Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimat
 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
-_Accepted in Statistical Analysis and Data Mining_. 
+_Accepted in Statistical Analysis and Data Mining_. [Article Link](https://onlinelibrary.wiley.com/doi/10.1002/sam.11554)
 
 
 *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   
+[Article Link](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
 
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
-_Accepted in Journal of Multivariate Analysis._  
+_Accepted in Journal of Multivariate Analysis._  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub)
 
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
