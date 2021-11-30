@@ -8,7 +8,6 @@ permalink: /publication/
 (* denotes advisee co-author at SNU/UMBC)
 
 ###  _Revision_/_Submitted_
-Baek, S.  and  Park, J.  (2021+) Estimation of Species Richness and Rarefaction Curve using Nonparametric Empirical Bayes by Quadratic Optimization.  _Revision submitted to Computational Statistics._ 
 
 
 
@@ -32,6 +31,10 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
 ### 2021 
+
+Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
+  _Accepted Computational Statistics._ 
+
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
 _Accepted in Statistical Analysis and Data Mining_. 
