@@ -19,9 +19,6 @@ permalink: /publication/
 
 ### _In Preparation_
 
-*Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Accepted to Statistics in Medicine_.
-
 *Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. 
 
 *Park, H. and Park, J.  Estimation of normal mean vector under unknown and unequal variances. 
@@ -33,6 +30,9 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
 ### 2021 
+
+*Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
+_Accepted to Statistics in Medicine_.
 
 Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
   _Accepted in Computational Statistics._ 
