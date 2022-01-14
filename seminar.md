@@ -18,4 +18,4 @@ permalink: /seminar/
 * 김규환 
     - [Kernel PCA](../files/Kernel_PCA.pdf)
 * 현승엽 
-    - [Best Subset, Forward Stepwise or Lasso? Analysis and Recommendations Based on Extensive Comparisons](../files/Best_Subset,Forward_Stepwise_or_Lasso?.pdf)
+    - [Best Subset, Forward Stepwise or Lasso? Analysis and Recommendations Based on Extensive Comparisons](../files/Best_Subset_Forward_Stepwise_or_Lasso?.pdf)
