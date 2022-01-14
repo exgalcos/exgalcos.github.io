@@ -24,6 +24,8 @@ nav:
     href:           "/research"
   - name:           "publications"
     href:           "/publication"
+  - name:           "seminar"
+    href:           "/seminar"
   - name:           "people"
     href:           "/people"
 
