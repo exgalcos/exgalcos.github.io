@@ -5,19 +5,15 @@ permalink: /seminar/
 
 ## **Seminar**
 
----
-
-### 2022
-
-#### Jan 14
+### Jan 14, 2022
 
 * 신도협
     - [Statistics for High-Dimensional Data - Lasso for linear models](../files/HDA_chapter-2(new).pdf)
 * 김명준
-    - [Natural Language Processing with Deep Learning - Introduction and Word Vectors](./files/20220114_nlp_word_embeddings)
+    - [Natural Language Processing with Deep Learning - Introduction and Word Vectors](../files/20220114_nlp_word_embeddings.pdf)
     - [code](../files/word2vec_glove.ipynb)
 
-#### Jan 7
+### Jan 7, 2022
 
 * 김규환 
     - [Kernel PCA](../files/Kernel_PCA.pdf)
