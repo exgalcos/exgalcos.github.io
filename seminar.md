@@ -17,7 +17,7 @@ permalink: /seminar/
 ### Jan 14, 2022
 
 * 신도협
-    - [Statistics for High-Dimensional Data - Lasso for linear models](./files/HDA_chapter-2(new).pdf)
+    - [Statistics for High-Dimensional Data - Lasso for linear models](./files/HDA_chapter-2.pdf)
 * 김명준
     - [Natural Language Processing with Deep Learning - Introduction and Word Vectors](./files/20220114_nlp_word_embeddings.pdf)
     - [code](./files/word2vec_glove.ipynb)
