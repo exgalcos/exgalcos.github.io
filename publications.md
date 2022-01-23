@@ -29,13 +29,13 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
-### 2021 
+### 2022 
 
 *Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Accepted to Statistics in Medicine_.
+_Accepted to Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
 
 Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
-  _Accepted in Computational Statistics._ 
+  _Accepted in Computational Statistics._  [Ariticle Link](https://link.springer.com/article/10.1007/s00180-021-01185-1)
 
 
 *Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
@@ -47,6 +47,9 @@ _Accepted in Statistical Analysis and Data Mining_. [Article Link](https://onlin
 *Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
 _Accepted in Journal of Multivariate Analysis._  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub)
 
+
+
+### 2021
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
