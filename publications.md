@@ -17,9 +17,9 @@ permalink: /publication/
 
 *Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
 
-### _In Preparation_
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. 
+### _In Preparation_
 
 *Park, H. and Park, J.  Estimation of normal mean vector under unknown and unequal variances. 
 
