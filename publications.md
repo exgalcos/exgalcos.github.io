@@ -32,9 +32,9 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 ### 2022 
 
 *Agarwala, N.,  Park, J. and Roy, A. (2022+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Accepted to Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
+_Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
 
-Baek, S.  and  Park, J.  (2022) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
+Baek, S.  and  Park, J.  (2022+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
   _Computational Statistics._  [Ariticle Link](https://link.springer.com/article/10.1007/s00180-021-01185-1)
 
 
