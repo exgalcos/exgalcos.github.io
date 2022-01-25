@@ -13,11 +13,11 @@ permalink: /publication/
 
 
 
-*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision in Electronic Journal of Statistics_.
+*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision in Electronic Journal of Statistics_.
 
-*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
+*Park, H. and Park, J. (2022+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
 
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  (2022+) A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
 ### _In Preparation_
 
