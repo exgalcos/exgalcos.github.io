@@ -13,13 +13,13 @@ permalink: /publication/
 
 
 
-*Park, H. and Park, J. (2021+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision in Electronic Journal of Statistics_.
+*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision in Electronic Journal of Statistics_.
 
-*Park, H. and Park, J. (2021+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
+*Park, H. and Park, J. (2022+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
+
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  (2022+) A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
 ### _In Preparation_
-
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. 
 
 *Park, H. and Park, J.  Estimation of normal mean vector under unknown and unequal variances. 
 
@@ -29,24 +29,27 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
-### 2021 
+### 2022 
 
-*Agarwala, N.,  Park, J. and Roy, A. (2021+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
-_Accepted to Statistics in Medicine_.
+*Agarwala, N.,  Park, J. and Roy, A. (2022+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
+_Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
 
-Baek, S.  and  Park, J.  (2021+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
-  _Accepted in Computational Statistics._ 
-
-
-*Park, H.,  Baek, S. and Park, J. (2021+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
-_Accepted in Statistical Analysis and Data Mining_. [Article Link](https://onlinelibrary.wiley.com/doi/10.1002/sam.11554)
+Baek, S.  and  Park, J.  (2022+) A Computationally Efficient Approach to Estimating Species Richness and Rarefaction Curve.
+  _Computational Statistics._  [Ariticle Link](https://link.springer.com/article/10.1007/s00180-021-01185-1)
 
 
-*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2021+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   [Article Link](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
+*Park, H.,  Baek, S. and Park, J. (2022+) High Dimensional Classification Based on Nonparametric Maximum Likelihood Estimation Under Unknown and Inhomogeneous Variances. 
+_Statistical Analysis and Data Mining_. [Article Link](https://onlinelibrary.wiley.com/doi/10.1002/sam.11554)
 
-*Park, H.,  Baek, S. and Park, J.  High-dimensional linear discriminant analysis using nonparametric methods <br>
-_Accepted in Journal of Multivariate Analysis._  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub)
 
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2022+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   [Article Link](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/)
+
+*Park, H.,  Baek, S. and Park, J. (2022) High-dimensional linear discriminant analysis using nonparametric methods <br>
+_Journal of Multivariate Analysis._  [Article Link](https://www.sciencedirect.com/science/article/pii/S0047259X21001147?via%3Dihub)
+
+
+
+### 2021
 
 Ramos, M.L., Park, D., Lim, J., Park, J., Tran, K.,  Garcia, E. and  Green, E. 
 Adaptive local false discovery rate procedures for highly spiky data and their application to protein Set4Δ data <br>
