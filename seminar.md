@@ -5,6 +5,14 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Jan 28, 2022
+
+* 신도협
+    - [Statistics for High-Dimensional Data - Generalized linear Models and Group Lasso](./files/HDA_chapter-3.pdf)
+* 김명준
+    - [Natural Language Processing with Deep Learning - Language Models, RNN and LSTM](./files/20220128_rnn_lstm.pdf)
+
+
 ### Jan 21, 2022
 
 * 현승엽
@@ -19,7 +27,7 @@ permalink: /seminar/
 * 신도협
     - [Statistics for High-Dimensional Data - Lasso for linear models](./files/HDA_chapter-2.pdf)
 * 김명준
-    - [Natural Language Processing with Deep Learning - Introduction and Word Vectors](./files/20220114_nlp_word_embeddings.pdf)
+    - [Natural Language Processing with Deep Learning - Introduction and Word Vectors](./files/20220114_word_embeddings.pdf)
     - [code](./files/word2vec_glove.ipynb)
 
 

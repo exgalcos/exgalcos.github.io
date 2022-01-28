@@ -24,10 +24,11 @@ nav:
     href:           "/research"
   - name:           "publications"
     href:           "/publication"
+  - name:           "people"
+    href:           "/people"  
   - name:           "seminar"
     href:           "/seminar"
-  - name:           "people"
-    href:           "/people"
+
 
 # Sass
 sass:
