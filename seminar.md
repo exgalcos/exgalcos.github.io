@@ -5,6 +5,12 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Feb 11, 2022
+
+* 현승엽
+    - [Convolutional Neural Network](./files/Convolutional_Neural_Network.pdf)
+
+
 ### Jan 28, 2022
 
 * 신도협
