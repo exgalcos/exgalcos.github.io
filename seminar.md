@@ -5,6 +5,18 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Feb 18, 2022
+
+* 김규환
+    - [Learning with Kernels](./files/Learning_with_Kernels.pdf)
+
+* 김명준
+    - [Natural Language Processing with Deep Learning - Seq2Seq, Attention and Transformer](./files/20220218_transformer.pdf)
+
+* 신도협
+    - [Statistics for High-Dimensional Data - Additive Models and Many Smooth Univariate Functions](./files/HDA_chapter5.pdf)
+
+
 ### Feb 11, 2022
 
 * 현승엽
