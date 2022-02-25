@@ -5,6 +5,12 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Feb 25, 2022
+
+* 김규환
+    - [Independent Component Analysis](./files/ICA.pdf)
+
+
 ### Feb 18, 2022
 
 * 김규환
