@@ -1,7 +1,7 @@
 ---
 name: Seohwa Hwang
 position: phd
-avatar: seohwa_hwang.png
+avatar: seohwa_hwang.jpeg
 twitter:
 joined: 2022
 ---
