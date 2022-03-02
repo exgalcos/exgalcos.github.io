@@ -39,4 +39,8 @@ Hi! I am a graduate student in the High Dimensional Multiple Testing Lab(2021.06
 
 ### Teaching Assistant
 
-* Mathematical Statistics 2 (Fall, 2021)
+* Seoul National University
+    - Statistical Research Institute Public Course - Multivariate Analysis (August, 2021)
+    - Mathematical Statistics 2 (Fall, 2021)
+    - Statistical Research Institute Public Course - Multivaraite Analysis (February, 2022)
+    - Mathematical Statistics 1 (Spring, 2022)
