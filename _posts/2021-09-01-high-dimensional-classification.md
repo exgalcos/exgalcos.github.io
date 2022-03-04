@@ -7,7 +7,7 @@ header-img: images/snu_main.jpg
 
 ## High Dimensional Classification
 
-Sample explanation.
+High Dimensional Classification.
 
 
 ## Related Publications
