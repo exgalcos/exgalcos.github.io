@@ -8,7 +8,6 @@ header-img: images/snu_main.jpg
 ## High Dimensional Classification
 
 Sample Explanation.
-Branch.
 
 
 ## Related Publications

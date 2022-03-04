@@ -5,6 +5,18 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Mar 4, 2022
+
+* 현승엽
+    - [ResNet Implementation with PyTorch](./files/ResNet_Implementation_wit_PyTorch.html)
+
+* 신도협
+    - [Statistics for High-Dimensional Data - Algorithms for Lasso](./files/algorithm_lasso.pdf)
+
+* 김명준
+    - [How to use Git?](./files/20220304_git.pdf)
+
+
 ### Feb 25, 2022
 
 * 김규환
