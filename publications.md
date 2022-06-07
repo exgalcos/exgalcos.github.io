@@ -11,10 +11,6 @@ permalink: /publication/
 
 
 
-
-
-*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Under Revision in Electronic Journal of Statistics_.
-
 *Park, H. and Park, J. (2022+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
 
 *Kim, Y.,  Baek, S., Lee, D. and Park, J.  (2022+) A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
@@ -30,6 +26,8 @@ Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV
 Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
 ### 2022 
+
+*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Accepted in Electronic Journal of Statistics_.
 
 *Agarwala, N.,  Park, J. and Roy, A. (2022+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
 _Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
