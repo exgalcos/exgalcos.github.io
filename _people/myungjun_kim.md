@@ -16,15 +16,15 @@ joined: 2021
 
 <hr>
 
-Hi! I am a graduate student in the High Dimensional Multiple Testing Lab(2021.06 ~). I’ve had interests in High Dimensional Classification, Business Intelligence and Statistical Learning and its applications.
+Hi! I am a graduate student in the High Dimensional Multiple Testing Lab (2021.06 ~). I’ve had interests in High Dimensional Classification, Business Intelligence and Statistical Learning and its applications.
 
 <hr>
 
 ### Education
 
-* Seoul National University(2021.03 ~ Present)
+* Seoul National University (2021.03 ~ Present)
     - M.S. in Statistics
-* Korea University(2015.03 ~ 2021.02)
+* Korea University (2015.03 ~ 2021.02)
     - B.S. in Mathematics and B.A. in Statistics
 
 <hr>
@@ -39,4 +39,8 @@ Hi! I am a graduate student in the High Dimensional Multiple Testing Lab(2021.06
 
 ### Teaching Assistant
 
-* Mathematical Statistics 2 (Fall, 2021)
+* Seoul National University
+    - Statistical Research Institute Public Course - Multivariate Analysis (August, 2021)
+    - Mathematical Statistics 2 (Fall, 2021)
+    - Statistical Research Institute Public Course - Multivaraite Analysis (February, 2022)
+    - Mathematical Statistics 1 (Spring, 2022)
