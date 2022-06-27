@@ -27,7 +27,7 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 
 ### 2022 
 
-*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Accepted in Electronic Journal of Statistics_.
+*Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Accepted in Electronic Journal of Statistics_. [Ariticle Link](https://www.researchgate.net/publication/361521496_Poisson_mean_vector_estimation_with_Nonparametric_Maximum_Likelihood_Estimation_and_Application_to_Protein_Domain_Data)
 
 *Agarwala, N.,  Park, J. and Roy, A. (2022+) Efficient Integration of Aggregate Data and Individual Patient Data in One-Way Mixed Models. 
 _Statistics in Medicine_.[Ariticle Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9307)
