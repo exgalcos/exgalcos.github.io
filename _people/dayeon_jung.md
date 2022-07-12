@@ -1,7 +1,7 @@
 ---
 name: Dayeon Jung
 position: ms
-avatar: dayeon_jung.png
+avatar: dayeon_jung.jpeg
 twitter:
 joined: 2022
 ---
