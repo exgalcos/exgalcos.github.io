@@ -29,7 +29,7 @@ Hi! I am a graduate student in the High Dimensional Multiple Testing Lab (2021.0
 
 <hr>
 
-### Research Intersts
+### Research Interests
 
 * High Dimensional Classification
 * Business Intelligence
