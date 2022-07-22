@@ -9,7 +9,7 @@ permalink: /seminar/
 
 * 김명준
     - [Mining Association Rules and Classiﬁcation based on Association Rules (CBA)](./files/20220722_cba.pdf)
-    - [tutorial](.files/arules_tutorial.html)
+    - [tutorial](./files/arules_tutorial.html)
 * 황서화 
     - [Addressing Small Sample Replicates in Logfold Change Multiple Testing](./files/20220722_lab_seminar.pdf)
 
