@@ -5,6 +5,14 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Jul 22, 2022
+
+* 김명준
+    - [Mining Association Rules and Classiﬁcation based on Association Rules (CBA)](./files/20220722_cba.pdf)
+    - [tutorial](./files/arules_tutorial.html)
+* 황서화 
+    - [Addressing Small Sample Replicates in Logfold Change Multiple Testing](./files/20220722_lab_seminar.pdf)
+
 ### Mar 4, 2022
 
 * 현승엽
@@ -53,7 +61,7 @@ permalink: /seminar/
 
 * 현승엽
     - [Introduction to Deep Learning](./files/deeplearning_intro.pdf)
-    - code
+    - [code](./files/ResNet_Implementation_with_PyTorch.html)
 * 김규환
     - [Reproducing Kernel Hilbert Space](./files/RKHS.pdf)
 
@@ -73,3 +81,5 @@ permalink: /seminar/
     - [Kernel PCA](./files/Kernel_PCA.pdf)
 * 현승엽 
     - [Best Subset, Forward Stepwise or Lasso? Analysis and Recommendations Based on Extensive Comparisons](./files/Best_Subset_Forward_Stepwise_or_Lasso.pdf)
+
+    
