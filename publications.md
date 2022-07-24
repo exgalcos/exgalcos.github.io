@@ -27,7 +27,7 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 
 ### 2022 
 
-*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2022+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Accepted in Annals of Applied Statistics._   [Article Link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Bayesian-local-false-discovery-rate-for-sparse-count-data-with/10.1214/21-AOAS1551.full)
+*Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2022+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Annals of Applied Statistics._   [Article Link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Bayesian-local-false-discovery-rate-for-sparse-count-data-with/10.1214/21-AOAS1551.full)
 
 
 *Park, H. and Park, J. (2022+) Poisson mean vector estimation with Nonparametric Maximum Likelihood Estimation and Application to Protein Domain Data. _Electronic Journal of Statistics_. [Ariticle Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Poisson-mean-vector-estimation-with-nonparametric-maximum-likelihood-estimation-and/10.1214/22-EJS2029.full)
