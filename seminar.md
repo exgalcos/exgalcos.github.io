@@ -10,7 +10,7 @@ permalink: /seminar/
 * 현승엽
     - [History of Boosting Algorithm: AdaBoost, GBM, XGBoost](./files/Boosting.pdf)
 
-* 신도엽
+* 신도협
     - [FDR control via Data Splitting](./files/FDR-control-via-Data-Splitting.pdf)
 
 
