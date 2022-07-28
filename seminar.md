@@ -5,6 +5,12 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Jul 28, 2022
+
+* 현승엽
+    - [History of Boosting Algorithm: AdaBoost, GBM, XGBoost](./files/Boosting.pdf)
+
+
 ### Jul 22, 2022
 
 * 김명준
