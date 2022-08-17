@@ -5,6 +5,15 @@ permalink: /seminar/
 
 ## **Seminar**
 
+### Jul 28, 2022
+
+* 현승엽
+    - [History of Boosting Algorithm: AdaBoost, GBM, XGBoost](./files/Boosting.pdf)
+
+* 신도협
+    - [FDR control via Data Splitting](./files/FDR-control-via-Data-Splitting.pdf)
+
+
 ### Jul 22, 2022
 
 * 김명준
