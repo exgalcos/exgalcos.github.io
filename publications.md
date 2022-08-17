@@ -27,7 +27,7 @@ Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and K
 
 ### 2022 
 
-Hong, S., Coelho, A.C., Park, J. (2022+) An Exact and Near-Exact Distribution Approach to the Behrens–Fisher Problem. _Mathematics._
+*Hong, S., Coelho, A.C., Park, J. (2022+) An Exact and Near-Exact Distribution Approach to the Behrens–Fisher Problem. _Mathematics._
 [Article Link](https://www.mdpi.com/2227-7390/10/16/2953)  
 
 *Gauran, I.I., Park, J., Rattsev, I., Peterson, T.A., Kann, M.G. and  Park, D. (2022+) Bayesian Local False Discovery Rate for sparse count data with application to the discovery of hotspots in protein domains.  _Annals of Applied Statistics._   [Article Link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Bayesian-local-false-discovery-rate-for-sparse-count-data-with/10.1214/21-AOAS1551.full)
