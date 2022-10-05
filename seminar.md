@@ -13,6 +13,9 @@ permalink: /seminar/
 * 김규리
     - [False Discovery Rate Control using Covariates](./files/[규리]0902_protected.pdf)
 
+* 김규환
+    - [Principal Fitted Components](./files/[규환]PFC_protected.pdf)
+
 ### Aug 26, 2022
 
 * 김명준
@@ -26,6 +29,10 @@ permalink: /seminar/
 * 황서화
     - [Two-stage design for experiments with a large number of hypotheses](./files/20220819_labseminar-보호됨.pdf)
 
+### Aug 4, 2022
+
+* 김규환
+    - [Knockoff and SDR](./files/[규환]knockoff_protected.pdf)
 
 ### Jul 28, 2022
 
