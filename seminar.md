@@ -3,7 +3,7 @@ title: Seminar
 permalink: /seminar/
 ---
 
-## **Seminar**
+## **Seminar** 
 
 ### Sep 2, 2022
 
