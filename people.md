@@ -54,7 +54,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Hoyoung Park](http://hdmtlab.github.io/people/hoyoung_park/index.html) | Ph.D. Student (2020 - 2021) | Postdoctoral Fellow, National Institutes of Health (NHLBI, NIH) |
+| [Hoyoung Park](http://hdmtlab.github.io/people/hoyoung_park/index.html) | Ph.D. Student (2020 - 2021) | Assistant Professor, Department of Statistics at Sookmyung Women's University |
 
 {% endif %}
 {% endfor %}
