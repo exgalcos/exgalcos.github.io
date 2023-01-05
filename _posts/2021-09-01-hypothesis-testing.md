@@ -2,7 +2,7 @@
 title: Hypothesis Testing
 description: Hypothesis Testing
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/hypothesis_testing.png
 ---
 
 ## Hypothesis Testing

@@ -2,7 +2,7 @@
 title: Mean Vector Estimation
 description: Mean Vector Estimation
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/mve.png
 ---
 
 ## Mean Vector Estimation 

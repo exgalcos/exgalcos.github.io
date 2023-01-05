@@ -2,7 +2,7 @@
 title: High Dimensional Classification
 description: High Dimensional Classification
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/classification.png
 ---
 
 ## High Dimensional Classification

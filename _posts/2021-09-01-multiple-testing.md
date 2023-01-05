@@ -2,7 +2,7 @@
 title: Multiple Testing
 description: Multiple Testing
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/testing.png
 ---
 
 ## Multiple Testing
