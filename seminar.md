@@ -5,6 +5,9 @@ permalink: /seminar/
 
 ## **Seminar** 
 
+<details>
+<summary>2022 Summer & Winter</summary>
+<div markdown="1">
 ### Sep 2, 2022
 
 * 정다연
@@ -119,5 +122,10 @@ permalink: /seminar/
     - [Kernel PCA](./files/Kernel_PCA.pdf)
 * 현승엽 
     - [Best Subset, Forward Stepwise or Lasso? Analysis and Recommendations Based on Extensive Comparisons](./files/Best_Subset_Forward_Stepwise_or_Lasso.pdf)
+
+
+
+</div>
+</details>
 
     
