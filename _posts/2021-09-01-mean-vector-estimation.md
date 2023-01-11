@@ -7,6 +7,8 @@ header-img: images/mve.png
 
 ## Mean Vector Estimation 
 
+<img src="/images/mve.png" width="100%" height="100%">
+
 Estimation of mean vector is a classical problem which includes [Stein's paradox](http://www.statslab.cam.ac.uk/~rjs57/SteinParadox.pdf).    There are many approahces in estimating mean vecotr such as linear estimator and approximate Bayes estimator using nonparametric empirical Bayes or nonparametric maximum likelihood estimation.  [Efron (2014)](https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Two-Modeling-Strategies-for-Empirical-Bayes-Estimation/10.1214/13-STS455.full) categorized nonparametric empirical Bayes 
 estimation by introducing f-modeling and g-modeling.  Its application  area is very broad including small area estimation and high dimensional classification.  
 

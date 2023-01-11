@@ -15,4 +15,21 @@ joined: 2022
 
 <hr>
 
-Hello, I'm a student who wants to be a researcher who does interesting research. I am interested in research methods that can analyze complex humans as they are.
+Hello, my name is Seohwa Hwang and I am a Ph.D. candidate in statistics. My research interests include multiple hypotheses testing, online inference, and statistical methods for small sample sizes.  I am highly motivated to conduct research that can help make meaningful contributions to the field.
+
+### Education
+
+* Seoul National University (2022.03 ~ )
+    - Ph.D in Statistics, Candidate
+* Seoul National University (2020.03 ~ 2022.2)
+    - M.S. in Bioinformatics
+* Seoul National University (2012.03 ~ 2018.02)
+    - B.S. in Nursing and B.A. in Statistics
+
+<hr>
+
+### Research Interests
+
+* Multiple hypotheses testing
+* Online Inference
+* Statistical Methods available for small sample sizes
