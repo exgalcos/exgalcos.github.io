@@ -33,5 +33,6 @@ Hello, my name is Seohwa Hwang and I am a Ph.D. candidate in statistics. My rese
 ### Research Interests
 
 * Multiple hypotheses testing
+* copula
 * Online Inference
 * Statistical Methods available for small sample sizes
