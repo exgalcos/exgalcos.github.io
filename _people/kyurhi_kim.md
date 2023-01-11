@@ -16,3 +16,20 @@ joined: 2022
 <hr>
 
 Hello I am a graduate student in the High Dimensional Multiple Testing Lab(2022.06~). I was awarded a bachelor’s degree in biosystems & biomedical sciences and statistics  from Korea University(2022.02). I'm interested in Bioinformatics and multiple testing.
+
+<hr>
+
+### Education
+
+* Seoul National University (2022.03 ~ Present)
+    - M.S. in Statistics
+* Korea University 
+    - B.S in Biosystem & Biomedical Sciences and B.A in Statistics
+
+
+<hr>
+
+### Research Interests
+
+* Bioinformatics
+* multiple testing
