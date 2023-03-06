@@ -12,7 +12,7 @@ permalink: /publication/
 Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
 matrix and mean vector. _Submitted_. 
  
-Baek, S., *Park, H. and Park, J.  Variable Selection Using Data Splitting and Projection for 
+Baek, S., Park, H. and Park, J.  Variable Selection Using Data Splitting and Projection for 
 Principal Fitted Component Models in High Dimension. 
 _Submitted_.
 
