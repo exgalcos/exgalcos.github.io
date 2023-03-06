@@ -27,7 +27,7 @@ nav:
   - name:           "People"
     href:           "/people"  
   - name:           "Seminar"
-    href:           "/seminar"
+    href:           "/seminar.php"
   - name:           "Gallery"
     href:           "/gallery/index.php"    
 
