@@ -1,6 +1,6 @@
 <?php
 // Define the path to the image folder
-$imageFolder = 'gallery/';
+$imageFolder = '/gallery/';
 
 // Get a list of all the images in the folder
 $images = glob($imageFolder . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
