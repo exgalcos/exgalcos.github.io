@@ -9,11 +9,16 @@ permalink: /publication/
 
 ###  _Revision_/_Submitted_
 
+Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
+matrix and mean vector. _Submitted_. 
+ 
+Baek, S., *Park, H. and Park, J.  Variable Selection Using Data Splitting and Projection for 
+Principal Fitted Component Models in High Dimension. 
+_Submitted_.
 
+*Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
 
-*Park, H. and Park, J. (2022+)  A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
-
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  (2022+) A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
 ### _In Preparation_
 
@@ -23,7 +28,6 @@ Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function.
 
 Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62. 
 
-Baek, S., *Park, H., and Park, J.  Variable Selection by Mirror Statistics and Knockoff Statistics in Sufficient Dimension Reduction.
 
 ### 2022 
 
