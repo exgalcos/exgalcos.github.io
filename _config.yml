@@ -27,9 +27,9 @@ nav:
   - name:           "People"
     href:           "/people"  
   - name:           "Seminar"
-    href:           "/seminar.php"
+    href:           "/seminar"
   - name:           "Gallery"
-    href:           "/gallery/index.php"    
+    href:           "/gallery.html"    
 
 
 # Sass
