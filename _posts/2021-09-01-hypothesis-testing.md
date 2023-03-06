@@ -2,10 +2,12 @@
 title: Hypothesis Testing
 description: Hypothesis Testing
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/hypothesis_testing.png
 ---
 
 ## Hypothesis Testing
+
+<img src="/images/hypothesis_testing.png" width="100%" height="100%">
 
 Some classical idea of ombinus or global testing methods have been extended to high dimension dramatically for the last two decades. One typical problem is the extension of Hotelling's T test for testing equality of mean vector to high dimensional case. Our research in testing in high dimension includes  hihg dimensional Behrens-Fisher problem and simultaneous test of mean  vectors and covariance matrces. <br>
 In meta analysis, testing the homogeneity of effect sizes or distributions from many different studies is important before we decide to combine all studies or consider random effect model to explain the variations among different studies.  Our research includes a variety of hypothesis testing problems such as high dimensional testing or some classifical testing problems in meta analysis.

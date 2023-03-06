@@ -1,6 +1,6 @@
 ---
 name: Myungjun Kim
-position: ms
+position: alumni
 avatar: myungjun_kim.png
 twitter:
 joined: 2021

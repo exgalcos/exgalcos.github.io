@@ -22,11 +22,8 @@ HDMTLab covers a variety of research areas including high dimensional data analy
                     <h3 class="post-title">
                         {{ post.title }}
                     </h3>
-                    <p class="list-post-title">
-                      posted on {{ post.date | date: "%B %-d, %Y" }}
-                    </p>
                     <p class="list-detail" >
-                      {{ post.content | strip_html | truncatewords:30 }}
+                      {{ post.content | strip_html | truncatewords:35 }}
                     </p>
                 </div>
             </div>

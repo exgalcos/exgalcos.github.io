@@ -2,12 +2,13 @@
 title: High Dimensional Classification
 description: High Dimensional Classification
 categories: newblog
-header-img: images/snu_main.jpg
+header-img: images/classification.png
 ---
 
 ## High Dimensional Classification
+<img src="/images/classification.png" width="100%" height="100%">
 
-Sample Explanation.
+High Dimensional Classification.
 
 
 ## Related Publications

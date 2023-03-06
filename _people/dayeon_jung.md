@@ -16,3 +16,19 @@ joined: 2022
 <hr>
 
 Hi. I am a graduate student in High Dimensional Multiple Testing Lab (2022.06~). I majored in Biotechnology and minored in Applied Statistics from Yonsei University(2022.2). I'm interested in High Dimentional Classification and Biostatistics.
+
+<hr>
+
+### Education
+
+* Seoul National University (2022.03 ~ Present)
+    - M.S. in Statistics
+* Yonsei University 
+    - B.S in Biotechnology and minor in Statistics
+
+<hr>
+
+### Research Interests
+
+* High Dimensional Classification
+* Biostatistics

@@ -23,4 +23,9 @@ Currently, I am a post-doctoral researcher at the National Institutes of Health 
 
 ### Research Interests
 
-Hypothesis testing in High dimension, Multiple testing in Bioinformatics, Causal Inference, Asymptotic Theory, Nonparametric method, Meta Analysis.
+* Hypothesis testing in High dimension
+* Multiple testing in Bioinformatics
+* Causal Inference
+* Asymptotic Theory
+* Nonparametric method
+* Meta Analysis.

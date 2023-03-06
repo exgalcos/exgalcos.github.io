@@ -3,7 +3,39 @@ title: Seminar
 permalink: /seminar/
 ---
 
-## **Seminar**
+## **Seminar** 
+
+<details>
+<summary>2022 Summer & Winter</summary>
+<div markdown="1">
+### Sep 2, 2022
+
+* 정다연
+    - [Comparison of FDR controlling method](./files/[다연]FDR_controlling_method_protected.pdf)
+
+* 김규리
+    - [False Discovery Rate Control using Covariates](./files/[규리]0902_protected.pdf)
+
+* 김규환
+    - [Principal Fitted Components](./files/[규환]PFC_protected.pdf)
+
+### Aug 26, 2022
+
+* 김명준
+    - [Propensity Score Matching](./files/[명준]20220826_psm-보호됨.pdf)
+
+### Aug 19, 2022
+
+* 신도협
+    - [Anomaly Detection](./files/[도협]anomaly_protected.pdf)
+
+* 황서화
+    - [Two-stage design for experiments with a large number of hypotheses](./files/20220819_labseminar-보호됨.pdf)
+
+### Aug 4, 2022
+
+* 김규환
+    - [Knockoff and SDR](./files/[규환]knockoff_protected.pdf)
 
 ### Jul 28, 2022
 
@@ -90,5 +122,10 @@ permalink: /seminar/
     - [Kernel PCA](./files/Kernel_PCA.pdf)
 * 현승엽 
     - [Best Subset, Forward Stepwise or Lasso? Analysis and Recommendations Based on Extensive Comparisons](./files/Best_Subset_Forward_Stepwise_or_Lasso.pdf)
+
+
+
+</div>
+</details>
 
     

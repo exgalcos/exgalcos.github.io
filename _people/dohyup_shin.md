@@ -20,7 +20,8 @@ joined: 2021
 Hi I am a graduate student of Department of Statistics at Seoul National University. I was awarded a bachelor’s degree in mathematics from Sogang University(2021.2)
 
 <hr>
+* Seoul National University (2022.03 ~ )
+    - M.S. in Statistics
+* Sogang University
+    - B.A in Mathematics
 
-### Research Interests
-
-High dimensional inference, Machine learning
