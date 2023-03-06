@@ -7,7 +7,7 @@ permalink: /seminar/
 
 <details>
 <summary>2022 Summer & Winter</summary>
-<div markdown="1">
+<div markdown="3">
 ### Sep 2, 2022
 
 * 정다연
