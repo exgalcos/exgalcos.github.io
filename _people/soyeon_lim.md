@@ -1,6 +1,6 @@
 ---
 name: Soyeon Lim
-position: ms
+position: alumni
 avatar: soyeon_lim.png
 twitter:
 joined: 2020
