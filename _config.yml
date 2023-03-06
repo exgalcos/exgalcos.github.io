@@ -18,16 +18,18 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "home"
+  - name:           "Home"
     href:           "/"
-  - name:           "research"
+  - name:           "Research"
     href:           "/research"
-  - name:           "publications"
+  - name:           "Publications"
     href:           "/publication"
-  - name:           "people"
+  - name:           "People"
     href:           "/people"  
-  - name:           "seminar"
+  - name:           "Seminar"
     href:           "/seminar"
+  - name:           "Gallery"
+    href:           "/gallery"    
 
 
 # Sass
@@ -60,3 +62,4 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
+
