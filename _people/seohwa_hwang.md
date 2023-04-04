@@ -34,5 +34,5 @@ Hello, my name is Seohwa Hwang and I am a Ph.D. candidate in statistics. My rese
 
 * Multiple hypotheses testing
 * copula
-* Online Inference
+* Online FDR
 * Statistical Methods available for small sample sizes
