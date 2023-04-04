@@ -13,7 +13,7 @@ permalink: /gallery/
 <div class="gallery">
 	{% for image in images %}
 		{% if image.path contains ".jpeg" or image.path contains ".png" %}
-			<img src="{{ site.baseurl }}/{{ image.path }}" alt="{{ image.name }}">
+			<img src="{{ image.url }}" alt="{{ image.name }}">
 		{% endif %}
 	{% endfor %}
 </div>
