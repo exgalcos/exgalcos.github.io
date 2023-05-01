@@ -9,6 +9,9 @@ permalink: /publication/
 
 ###  _Revision_/_Submitted_
 
+Combining dependent $p$-values using heavy tailed distributions and their asymptotic 
+results with applications to genomic data. _Submitted_.
+
 Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
 matrix and mean vector. _Submitted_. 
  
