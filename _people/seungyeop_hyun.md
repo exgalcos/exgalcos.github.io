@@ -1,6 +1,6 @@
 ---
 name: Seungyeop Hyun
-position: alumni
+position: ms
 avatar: seungyeop_hyun.png
 twitter:
 joined: 2021

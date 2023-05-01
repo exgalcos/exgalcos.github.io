@@ -29,7 +29,7 @@ nav:
   - name:           "Seminar"
     href:           "/seminar"
   - name:           "Gallery"
-    href:           "/gallery.html"    
+    href:           "/gallery"    
 
 
 # Sass

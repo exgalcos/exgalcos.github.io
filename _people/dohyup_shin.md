@@ -1,6 +1,6 @@
 ---
 name: Dohyup Shin
-position: ms
+position: alumni
 avatar: dohyup_shin.png
 twitter:
 joined: 2021
