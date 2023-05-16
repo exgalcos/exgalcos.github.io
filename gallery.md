@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Gallery
 permalink: /gallery/
 ---
@@ -8,7 +7,7 @@ permalink: /gallery/
   <header class="masthead text-center">
     <h1>Gallery</h1>
     <div class="gallery">
-      {% for event in site.gallery.events %}
+      {% for event in site.data.gallery.events %}
         <div class="event">
           <h3>{{ event.title }}</h3>
           <a href="/gallery/{{ event.folder }}/">
