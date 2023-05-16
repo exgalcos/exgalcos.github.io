@@ -1,8 +1,9 @@
 ---
 title: 2023 Spring Graduation
 permalink: /gallery/2023-spring-graduation/
-date : 2023
---- 
+date: 2023
+gallery_image: /gallery/2023_spring_01.jpeg
+---
 
 ![S2023_1](/gallery/2023_spring_01.jpeg)
 ![S2023_2](/gallery/2023_spring_02.jpeg)
