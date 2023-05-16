@@ -3,41 +3,17 @@ title: Gallery
 permalink: /gallery/
 ---
 
-<h2>Gallery</h2>
+{% assign gallery_files = site.static_files | where: "path", "_gallery" %}
+{% assign sorted_gallery_files = gallery_files | sort: "name" %}
 
-<div class="gallery">
-  {% for file in site.static_files %}
-    {% if file.path contains '/gallery/' and file.path contains '.jpeg' %}
-      <div class="gallery-item">
-        <a href="{{ file.path }}" class="gallery-link">
-          <img src="{{ file.path }}" alt="{{ file.name }}">
-        </a>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% for file in sorted_gallery_files %}
+  {% assign element = file.basename | replace: "-", " " %}
+  {% assign element_data = site.data.gallery | where: "title", element | first %}
 
-<div id="image-modal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" src="">
-</div>
-
-<script>
-var modal = document.getElementById("image-modal");
-var modalContent = modal.getElementsByClassName("modal-content")[0];
-var modalClose = modal.getElementsByClassName("close")[0];
-
-var links = document.getElementsByClassName("gallery-link");
-for (var i = 0; i < links.length; i++) {
-  links[i].onclick = function(event) {
-    event.preventDefault();
-    var imageUrl = this.getAttribute("href");
-    modalContent.setAttribute("src", imageUrl);
-    modal.style.display = "block";
-  };
-}
-
-modalClose.onclick = function() {
-  modal.style.display = "none";
-};
-</script>
+  {% if element_data %}
+    <div>
+      <h2><a href="{{ file.path }}">{{ element_data.title }}</a></h2>
+      <img src="{{ site.baseurl }}{{ element_data.gallery_image }}" alt="{{ element_data.title }}">
+    </div>
+  {% endif %}
+{% endfor %} 
