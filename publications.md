@@ -9,20 +9,20 @@ permalink: /publication/
 
 ###  _Revision_/_Submitted_
 
-
-Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
-matrix and mean vector. _Submitted_. 
  
 Baek, S., Park, H. and Park, J.  Variable Selection Using Data Splitting and Projection for 
 Principal Fitted Component Models in High Dimension. 
-_Submitted_.
+_Under revision in Computational Statistics and Data Analysis_.
 
-Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Submitted_.
-
-*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
+Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Under revision in Journal of Statistical Computation and Simulation_.
 
 Kim, J. and Park, J. Combining dependent $p$-values using heavy tailed distributions and their asymptotic 
-results with applications to genomic data. _Submitted_.
+results with applications to genomic data. _Under Revision in Statistica Sinica_.
+
+*Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
+matrix and mean vector. _Submitted_. 
+
+*Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
 
 ### _In Preparation_
