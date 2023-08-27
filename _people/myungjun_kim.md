@@ -22,7 +22,7 @@ Hi! I am a graduate student in the High Dimensional Multiple Testing Lab (2021.0
 
 ### Education
 
-* Seoul National University (2021.03 ~ Present)
+* Seoul National University (2021.03 ~ 2023.02)
     - M.S. in Statistics
 * Korea University (2015.03 ~ 2021.02)
     - B.S. in Mathematics and B.A. in Statistics
