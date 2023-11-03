@@ -22,7 +22,7 @@ matrix and mean vector. _Submitted_.
 
 ### _Accepted Papers_ 
 
-Kim, J. and Park, J. Combining dependent $p$-values using heavy tailed distributions and their asymptotic 
+Kim, J. and Park, J. Combining  p-values using heavy tailed distributions and their asymptotic 
 results with applications to genomic data. _Accepted in Statistica Sinica_. [Article Link](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0117_na.pdf)  [supplementary](https://www3.stat.sinica.edu.tw/preprint/supp/2023-0117_supp.pdf) 
  
 
