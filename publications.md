@@ -29,16 +29,6 @@ results with applications to genomic data. _Accepted in Statistica Sinica_. [Art
 Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Accepted in Journal of Statistical Computation and Simulation_.
 
 
-### _In Preparation_
-
-*Park, H. and Park, J.  Estimation of normal mean vector under unknown and unequal variances. 
-
-Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function.
-
-Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62. 
-
-
-
 
 ### 2022 
 
