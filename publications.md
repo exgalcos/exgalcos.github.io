@@ -14,13 +14,19 @@ Baek, S., Park, H. and Park, J.  Variable Selection Using Data Splitting and Pro
 Principal Fitted Component Models in High Dimension. 
 _Under revision in Computational Statistics and Data Analysis_.
 
-Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Under revision in Journal of Statistical Computation and Simulation_.
-
 
 *Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
 matrix and mean vector. _Submitted_. 
 
 *Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
+
+### Accepted Papers 
+
+Kim, J. and Park, J. Combining dependent $p$-values using heavy tailed distributions and their asymptotic 
+results with applications to genomic data. _Accepted in Statistica Sinica_. [Article Link](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0117_na.pdf)  [supplementary](https://www3.stat.sinica.edu.tw/preprint/supp/2023-0117_supp.pdf) 
+ 
+
+Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Accepted in Journal of Statistical Computation and Simulation_.
 
 
 ### _In Preparation_
@@ -31,10 +37,8 @@ Park, A. and Vexler, A.  Empirical likelihood via quadratic loss function.
 
 Park, J.,  Park, D. and Spouge, J.   False discovery rate and application to HIV data with BLOSSUM62. 
 
-### 2023
 
-Kim, J. and Park, J. Combining dependent $p$-values using heavy tailed distributions and their asymptotic 
-results with applications to genomic data. _Accepted in Statistica Sinica_.
+
 
 ### 2022 
 
