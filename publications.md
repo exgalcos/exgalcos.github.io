@@ -16,7 +16,7 @@ _Under revision in Computational Statistics and Data Analysis_.
 
 
 *Kim, J., Park, J. and Park, H. High dimensional discriminant rules with shrinkage estimators of the covariance 
-matrix and mean vector. _Submitted_. 
+matrix and mean vector. _Under revision in Journal of Statistical Planning and Inference_. 
 
 *Kim, Y.,  Baek, S., Lee, D. and Park, J.  A Group Sequential Procedure to Control FDR for Group Margin and Its Application to GWAS with Linkage Disequilibrium Scores. _Submitted_. 
 
