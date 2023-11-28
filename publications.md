@@ -5,6 +5,8 @@ permalink: /publication/
 
 ## **Publications**
 
+### [_Full Publication List_](https://www.researchgate.net/profile/Junyong-Park-10) 
+
 (* denotes advisee co-author at SNU/UMBC)
 
 ###  _Revision_/_Submitted_
@@ -26,7 +28,7 @@ Kim, J. and Park, J. Combining  p-values using heavy tailed distributions and th
 results with applications to genomic data. _Accepted in Statistica Sinica_. [Article Link](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0117_na.pdf)  [supplementary](https://www3.stat.sinica.edu.tw/preprint/supp/2023-0117_supp.pdf) 
  
 
-Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Accepted in Journal of Statistical Computation and Simulation_.
+Park, H. and Park, J.   A robust false discovery rate controlling procedure using empirical likelihood with a fast algorithm. _Accepted in Journal of Statistical Computation and Simulation_.  [Article Link](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2280916) 
 
 
 
