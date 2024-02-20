@@ -19,17 +19,17 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "Home"
-    href:           "/"
+    href:           "/exgalcosteam"
   - name:           "Research"
-    href:           "/research"
+    href:           "/exgalcosteam/research"
   - name:           "Publications"
-    href:           "/publication"
+    href:           "/exgalcosteam/publication"
   - name:           "People"
-    href:           "/people"  
+    href:           "/exgalcosteam/people"  
   - name:           "Seminar"
-    href:           "/seminar"
+    href:           "/exgalcosteam/seminar"
   - name:           "Gallery"
-    href:           "/gallery"    
+    href:           "/exgalcosteam/gallery"    
 
 
 # Sass
