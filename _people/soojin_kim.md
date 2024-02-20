@@ -1,7 +1,7 @@
 ---
 name: Soojin Kim_
 position: under
-avatar: dayeon_jung.jpeg
+avatar: soojin_kim.jpg
 twitter:
 joined: 2022
 ---
