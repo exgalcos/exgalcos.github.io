@@ -19,17 +19,17 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "Home"
-    href:           ""
+    href:           "/"
   - name:           "Research"
-    href:           "research"
+    href:           "/research"
   - name:           "Publications"
-    href:           "publication"
+    href:           "/publication"
   - name:           "People"
-    href:           "people"  
+    href:           "/people"  
   - name:           "Seminar"
-    href:           "seminar"
+    href:           "/seminar"
   - name:           "Gallery"
-    href:           "gallery"    
+    href:           "/gallery"    
 
 
 # Sass
