@@ -54,10 +54,11 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Hoyoung Park](http://hdmtlab.github.io/people/hoyoung_park/index.html) | Ph.D. Student (2020 - 2021) | Assistant Professor, Department of Statistics at Sookmyung Women's University |
-| [Soyeon Lim](http://hdmtlab.github.io/people/soyeon_lim/index.html) | MS Student (2020 - 2022) | |
-| [Dohyup Shin](http://hdmtlab.github.io/people/dohyup_shin/index.html) | MS Student (2021 - 2022) | LG U+ |
-| [Myungjun Kim](http://hdmtlab.github.io/people/myungjun_kim/index.html) | MS Student (2021 - 2022) | Samsung Electronics |
+| [Jae Won Lee] (personal cv page link) | Undergraduate Intern (?) | Graduate Student, SNU |
+| [Tae Wan Kim] (personal cv page link) | Undergraduate Intern (?) | Graduate Student, SNU |
+| [Jae Yeon (Marcie) Mun] (personal cv page link) | MS Student (?) | |
+| [Byungmoo Lim] (personal cv page link) | Undergraduate Intern (2022 - 2022) | |
+| [Hanbee Seo] (personal cv page link) | Undergraduate Intern (2022 - 2022) | |
 
 {% endif %}
 {% endfor %}
