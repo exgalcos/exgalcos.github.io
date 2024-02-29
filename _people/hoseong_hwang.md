@@ -1,7 +1,7 @@
 ---
 name: Ho Seong Hwang
 position: pi
-avatar: hoseong_hwang.jpg
+avatar: hoseong_hwang.jpeg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
