@@ -15,6 +15,6 @@ submitted
 ​
 * Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,<br>
 Lee, G., Hwang, H. S., Lee, J., Shin, J., Song, H.<br> 
-accepted for publication in ApJ [(arXiv:2401.07007)](https://arxiv.org/abs/2401.07007
+accepted for publication in ApJ [(arXiv:2401.07007)](https://arxiv.org/abs/2401.07007)
 
 
