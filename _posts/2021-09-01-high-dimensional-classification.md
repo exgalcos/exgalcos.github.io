@@ -1,6 +1,6 @@
 ---
-title: High Dimensional Classification
-description: High Dimensional Classification
+title: Dark Galaxy Search
+description: Dark Galaxy Search
 categories: newblog
 header-img: images/classification.png
 ---
