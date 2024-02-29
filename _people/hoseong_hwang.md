@@ -22,29 +22,29 @@ avatar: hoseong_hwang.jpg
 <hr> 
 
 **Academic Positions**<br>
-* Associate Professor, Seoul National University/서울대학교, Korea 
+* Associate Professor, Seoul National University/서울대학교, Korea<br>
   2021.03 - Present
 
-* Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea
+* Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea<br>
   2018.12 - 2021.02
   
-* Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea  
+* Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea<br> 
   2014.09 - 2018.12
 
-* Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA
+* Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA<br>
   2011-10 - 2014.08
 
-* Postdoc, CEA Saclay/싸이에이 사클레이 천체물리연구소, France
+* Postdoc, CEA Saclay/싸이에이 사클레이 천체물리연구소, France<br>
   2009.05-2011.09
 
-* Postdoc, KIAS/고등과학원, Korea  
+* Postdoc, KIAS/고등과학원, Korea<br>
   2007.09 - 2009.04
 
 <hr>
  
 **Education**<br>
-* Ph.D. in Astronomy, Dept. of Physics and Astronomy, Seoul National University/서울대학교, Korea
+* Ph.D. in Astronomy, Dept. of Physics and Astronomy, Seoul National University/서울대학교, Korea<br>
   2007.08
 
-* B.S. in Physics, Dept. of Physics, KAIST/카이스트, Korea
+* B.S. in Physics, Dept. of Physics, KAIST/카이스트, Korea<br>
   2001.02
