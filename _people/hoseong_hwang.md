@@ -1,27 +1,26 @@
 ---
-name: Junyong Park
+name: Ho Seong Hwang
 position: pi
-avatar: junyong_park.png
+avatar: hoseong_hwang.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Professor, Department of Statistics, Seoul National University_<br>
+- _Associate Professor, Astronomy Program, Department of Physics and Astronomy,  Seoul National University_<br>
 
-<i class="fa fa-envelope-o"></i> `junyongpark@snu.ac.kr`
+<i class="fa fa-envelope-o"></i> `galaxy79@snu.ac.kr`
 
 **Office**<br>
-Department of Statistics, Seoul National University, Building 25 Room 326 <br>
-1 Gwanak-ro, Gwanak-gu, Seoul 08826, Korea <br>
+Rm. 209B at Building #19 <br>
 
 <hr>
 
 **Research Area**<br>
-* Hypothesis testing in high dimension<br>
-* Multiple testing<br>
-* Classification in high dimension<br>
-* Bioinformatics<br>
-* Meta Analysis<br>
+* research area 1<br>
+* research area 2<br>
+* research area 3<br>
+* research area 4<br>
+* research area 5<br>
 
 <hr> 
 
