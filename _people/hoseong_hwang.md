@@ -12,7 +12,8 @@ avatar: hoseong_hwang.jpeg
 <i class="fa fa-building"></i> Rm. 209B at Building #19 <br> 
 <i class="fa fa-bar-chart"></i> [Ho Seong Hwang](https://pesa11.github.io)
 
-**Research Area**<br>
+### Research Area
+
 * research area 1<br>
 * research area 2<br>
 * research area 3<br>
@@ -21,30 +22,16 @@ avatar: hoseong_hwang.jpeg
 
 <hr> 
 
-**Academic Positions**<br>
-* Associate Professor, Seoul National University/서울대학교, Korea<br>
-  2021.03 - Present
-
-* Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea<br>
-  2018.12 - 2021.02
-  
-* Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea<br> 
-  2014.09 - 2018.12
-
-* Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA<br>
-  2011-10 - 2014.08
-
-* Postdoc, CEA Saclay/싸이에이 사클레이 천체물리연구소, France<br>
-  2009.05-2011.09
-
-* Postdoc, KIAS/고등과학원, Korea<br>
-  2007.09 - 2009.04
+### Academic Positions
+* Associate Professor, Seoul National University/서울대학교, Korea (2021.03 - Present)
+* Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea (2018.12 - 2021.02) 
+* Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea (2014.09 - 2018.12)
+* Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA (2011-10 - 2014.08)
+* Postdoc, CEA Saclay/싸이에이 사클레이 천체물리연구소, France (2009.05-2011.09)
+* Postdoc, KIAS/고등과학원, Korea (2007.09 - 2009.04)
 
 <hr>
  
-**Education**<br>
-* Ph.D. in Astronomy, Dept. of Physics and Astronomy, Seoul National University/서울대학교, Korea<br>
-  2007.08
-
-* B.S. in Physics, Dept. of Physics, KAIST/카이스트, Korea<br>
-  2001.02
+### Education
+* Ph.D. in Astronomy, Dept. of Physics and Astronomy, Seoul National University/서울대학교, Korea (2007.08)
+* B.S. in Physics, Dept. of Physics, KAIST/카이스트, Korea (2001.02)
