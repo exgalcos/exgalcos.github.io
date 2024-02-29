@@ -5,7 +5,7 @@ description:        "this is a page for Extragalactic Astronomy and Cosmology Te
 
 
 # URL
-url:                https://pesa11.github.io/exgalcosteam
+url:                https://exgalcos.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -19,17 +19,17 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "Home"
-    href:           "/exgalcosteam"
+    href:           "/"
   - name:           "Research"
-    href:           "/exgalcosteam/research"
+    href:           "/research"
   - name:           "Publications"
-    href:           "/exgalcosteam/publication"
+    href:           "/publication"
   - name:           "People"
-    href:           "/exgalcosteam/people"  
+    href:           "/people"  
   - name:           "Seminar"
-    href:           "/exgalcosteam/seminar"
+    href:           "/seminar"
   - name:           "Gallery"
-    href:           "/exgalcosteam/gallery"    
+    href:           "/gallery"    
 
 
 # Sass
