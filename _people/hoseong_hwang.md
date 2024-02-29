@@ -9,11 +9,7 @@ avatar: hoseong_hwang.png
 - _Associate Professor, Astronomy Program, Department of Physics and Astronomy,  Seoul National University_<br>
 
 <i class="fa fa-envelope-o"></i> `galaxy79@snu.ac.kr`
-
-**Office**<br>
-Rm. 209B at Building #19 <br>
-
-<hr>
+<i class="fa fa-building"></i> Rm. 209B at Building #19 <br> 
 
 **Research Area**<br>
 * research area 1<br>
@@ -24,14 +20,14 @@ Rm. 209B at Building #19 <br>
 
 <hr> 
 
-**Education**<br>
+**Academic Positions**<br>
 * Ph.D. in Statistics, Purdue University in 2006. Aug <br>
 * M.S. in Statistics, Seoul National University, 1997. Feb <br>
 * B.S. in Statistics, Seoul National University, 1995. Feb <br>
 
 <hr>
  
-**Biography**<br>
+**Education**<br>
 * Professor with tenure (2020. Feb - current)  Department of Statistics, Seoul National University<br>
 * Professor (2019. Aug - 2020. Jan), Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
 * Associate Professor with tenure (2012. Aug - 2019. Jul)   Department of Mathematics and Statistics at University of Maryland Baltimore County<br>
