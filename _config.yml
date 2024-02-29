@@ -26,10 +26,8 @@ nav:
     href:           "/publication"
   - name:           "People"
     href:           "/people"  
-  - name:           "Seminar"
-    href:           "/seminar"
-  - name:           "Gallery"
-    href:           "/gallery"    
+  - name:           "News"
+    href:           "/news"
 
 
 # Sass
