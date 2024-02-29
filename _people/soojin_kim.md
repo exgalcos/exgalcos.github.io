@@ -1,5 +1,5 @@
 ---
-name: Soojin Kim_
+name: Soojin Kim
 position: under
 avatar: soojin_kim.jpg
 twitter:
