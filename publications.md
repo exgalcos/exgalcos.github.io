@@ -5,7 +5,7 @@ permalink: /publication/
 
 ## **Publications**
 
-### [_Full Publication List_](https://pesa11.github.io) 
+### [_Full Publication List_](https://pesa11.github.io/publications) 
 
 ###  _Recent Papers_
 
