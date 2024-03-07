@@ -15,27 +15,6 @@ joined: 2021
 
 <hr>
 
-Hi. I'm Ph. D student~~ <br>
- 
-<hr>
-
-### Academic Positions
-
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
-
-<hr>
-
-### Education
-
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
-
-<hr>
-
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* Large-scale structures of the universe
