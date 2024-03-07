@@ -11,7 +11,7 @@ _Associate Professor, Astronomy Program, Department of Physics and Astronomy, Se
 ### Contact
 <i class="fa fa-envelope-o"></i> `galaxy79@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Rm. 209B at Building #19 <br> 
-<a href="https://hwanghs.github.io"><i class="fa-solid fa-link"></i> Ho Seong Hwang</a><br>
+<a href="https://hwanghs.github.io"><i class="fa fa-home" aria-hidden="true"></i> Ho Seong Hwang</a><br>
 
 <hr> 
 
