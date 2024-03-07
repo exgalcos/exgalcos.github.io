@@ -10,32 +10,19 @@ joined: 2022
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `chzg0201@gmail.com`<br>
-<i class="fa fa-building"></i> Building 19 Room 204 <br> 
-
-<hr>
-
-Hi. I'm Ph. D student~~ <br>
- 
-<hr>
-
-### Academic Positions
-
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
+<i class="fa fa-envelope-o"></i>  `chzg1@snu.ac.kr`<br>
+<i class="fa fa-building"></i> Building 19 Room 214 <br> 
 
 <hr>
 
 ### Education
 
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
+* Ph.D student in Dept. of Physics and Astronomy, Seoul National University, Seoul (2017.03 - Present)
+* B.S in Dept. of Applied Physics, Hanyang University ERICA, Ansan (2012.03 - 2016.02)
 
 <hr>
 
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* Galaxy dynamics with alternative theory of gravity
+* Redshift evolution of intrinsic alignment of red galaxies in simulated universe
