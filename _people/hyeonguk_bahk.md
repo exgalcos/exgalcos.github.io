@@ -12,7 +12,7 @@ joined: 2021
 
 <i class="fa fa-envelope-o"></i>  `bahkhyeonguk@gmail.com`<br>
 <i class="fa fa-building"></i> Building 19 Room 214 <br> 
-<a href="https://hbahk.github.io"><i class="fa-solid fa-link"></i> Hyeonguk Bahk </a><br>
+<a href="https://hbahk.github.io"><i class="fa fa-home" aria-hidden="true"></i> Hyeonguk Bahk </a><br>
 
 <hr>
 
