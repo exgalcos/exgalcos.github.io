@@ -12,7 +12,7 @@ joined: 2021
 
 <i class="fa fa-envelope-o"></i>  `pppp374@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Building 19 Room 212B <br> 
-<i class="fa fa-bar-chart"></i> [Daeun Jeong](https://jeongdaeun.com/)
+<a href="https://jeongdaeun.com"><i class="fa-solid fa-link"></i> Daeun Jeong</a><br>
 
 <hr>
 
