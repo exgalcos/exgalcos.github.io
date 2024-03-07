@@ -11,7 +11,7 @@ joined: 2020
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `hyparks@snu.ac.kr`<br>
-<i class="fa fa-bar-chart"></i> [Hoyoung Park](https://sites.google.com/view/hoyoung-park/home?authuser=0)
+<i class="fa fa-home"></i> [Hoyoung Park](https://sites.google.com/view/hoyoung-park/home?authuser=0)
 
 <hr>
 
