@@ -8,6 +8,7 @@ header-img: images/galaxyclusters.jpeg
 ## Galaxy Clusters (SPHEREx + Kinematics)
 
 <img src="/images/galaxyclusters.jpeg" width="100%" height="100%">
+Image credit: NASA, ESA, CSA, STScI, Jose M. Diego (IFCA), Jordan C. J. D'Silva (UWA), Anton M. Koekemoer (STScI), Jake Summers (ASU), Rogier Windhorst (ASU), Haojing Yan (University of Missouri)
 
 Galaxy clusters, the largest gravitationally bound structures in the Universe, are key to understanding cosmic evolution. These "cosmic metropolises" are not just collections of galaxies; they are laboratories for studying the composition of the Universe, including the mysterious dark matter and dark energy that elude direct detection.
 
