@@ -1,7 +1,7 @@
 ---
 name: Hyeonguk Bahk
 position: grad
-avatar: hyeonguk_bahk.jpg
+avatar: hyeonguk_bahk.jpeg
 twitter:
 joined: 2021
 ---
