@@ -12,7 +12,7 @@ joined: 2024
 
 <i class="fa fa-envelope-o"></i>  `hyein.yoon@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Building 19 <br> 
-<i class="fa fa-bar-chart"></i> [Hyein Yoon](https://hyeinyoon.github.io/)
+<a href="https://hyeinyoon.github.io"><i class="fa-solid fa-link"></i> Hyein Yoon.</a><br>
 
 <hr>
 
