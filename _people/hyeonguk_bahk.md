@@ -12,31 +12,20 @@ joined: 2021
 
 <i class="fa fa-envelope-o"></i>  `bahkhyeonguk@gmail.com`<br>
 <i class="fa fa-building"></i> Building 19 Room 214 <br> 
-https://hbahk.github.io 
-
-<hr>
-
-Hi. I'm Ph. D student~~ <br>
- 
-<hr>
-
-### Academic Positions
-
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
+<i class="fa fa-bar-chart"></i> [Hyeonguk Bahk](https://hbahk.github.io)
 
 <hr>
 
 ### Education
 
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
+* Ph.D student in Astronomy, Seoul National University, Korea (Advisor: Prof. Ho Seong Hwang) (2021.09 - Present)
+* B.S. in Astronomy, Seoul National University, Korea (2021.08)
 
 <hr>
 
 ### Research Interests
 
 * Observational Cosmology
-* Large Scale Structures
+* Formation and Evolution of Galaxy Clusters
+* Dynamics of Galaxy Clusters
+* Active Galactic Nuclei and Supermassive Blackhole
