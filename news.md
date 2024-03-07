@@ -5,7 +5,10 @@ permalink: /news/
 
 ## **News**
 
-**April 12, 2025**
+**March 8, 2024**
+Welcome Yonguk Cho! New member joined our team.
+
+**March 4, 2024**
 Welcome Yigon, Hyein! New member joined our team.
 
 **April 12, 2025**
