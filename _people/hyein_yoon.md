@@ -1,7 +1,7 @@
 ---
 name: Hyein Yoon
 position: postdoc
-avatar: hyeon_yoon.jpg
+avatar: hyein_yoon.jpg
 twitter:
 joined: 2024
 ---
