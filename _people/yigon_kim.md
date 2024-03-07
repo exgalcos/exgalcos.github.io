@@ -11,31 +11,26 @@ joined: 2024
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `yigon@outlook.com`<br>
-<i class="fa fa-building"></i> Building 19 Room 204 <br> 
-
-<hr>
-
-Hi. I'm Ph. D student~~ <br>
+<i class="fa fa-building"></i> Building 19 Room 304 <br> 
  
 <hr>
 
 ### Academic Positions
 
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
-
+* Researcher at SPHEREx Basic Research Lab (2022.09 ~ 2024.02)
+  
 <hr>
 
 ### Education
 
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
-
+* M.S. in Astronomy, Kyungpook National University (2019.02 ~ 2021.02)
+* B.S. in Astronomy and Atmospheric Sciences, Kyungpook National University (2015.03 ~ 2019.02)
+            
 <hr>
 
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* Large Scale Structure Kinematics
+* Cosmological Simulations
+* DM Substructures
+
