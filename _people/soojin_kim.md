@@ -15,16 +15,9 @@ joined: 2022
 
 <hr>
 
-Hi. I am a undergraduate intern student in SNU ExgalCos Team (2022.08~). I majored in Astronomy and Physics in Seoul National University(2024.2). I'm interested in Observational Cosmology and Large Scale Structures.
-
-<hr>
-
 ### Education
 
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
+* B.S. in Astronomy and Physics, Seoul National University (2024.02)
 
 <hr>
 
