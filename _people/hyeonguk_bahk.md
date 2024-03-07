@@ -10,8 +10,9 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `spica095@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 309 <br> 
+<i class="fa fa-envelope-o"></i>  `bahkhyeonguk@gmail.com`<br>
+<i class="fa fa-building"></i> Building 19 Room 214 <br> 
+https://hbahk.github.io 
 
 <hr>
 
