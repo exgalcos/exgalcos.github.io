@@ -5,7 +5,7 @@ permalink: /publication/
 
 ## **Publications**
 
-### [_Full Publication List_](https://pesa11.github.io/publications) 
+### [_Full Publication List_](https://hwanghs.github.io/publications) 
 
 ###  _Recent Papers_
 
