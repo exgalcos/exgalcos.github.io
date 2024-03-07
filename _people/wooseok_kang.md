@@ -1,7 +1,7 @@
 ---
 name: Wooseok Kang
 position: under
-avatar: wooseok_kang.jpg
+avatar: wooseok_kang.jpeg
 twitter:
 joined: 2021
 ---
