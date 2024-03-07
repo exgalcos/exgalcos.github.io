@@ -1,7 +1,7 @@
 ---
 name: Sang Hyeok Im
 position: grad
-avatar: sanghyeok_im.jpg
+avatar: sanghyeok_im.jpeg
 twitter:
 joined: 2021
 ---
