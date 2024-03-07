@@ -11,7 +11,8 @@ joined: 2021
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `pppp374@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 204 <br> 
+<i class="fa fa-building"></i> Building 19 Room 212B <br> 
+https://jeongdaeun.com/
 
 <hr>
 
@@ -36,6 +37,6 @@ Hi. I'm Ph. D student~~ <br>
 <hr>
 
 ### Research Interests
-
-* Observational Cosmology
-* Large Scale Structures
+* Galaxy Rotation Curves
+* Galaxy Dynamics
+* Galaxy Evolution
