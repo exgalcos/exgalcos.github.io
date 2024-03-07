@@ -11,7 +11,7 @@ permalink: /people/
 {% assign people_in_role = people_sorted | where: 'position', role %}
 
 <!-- Skip section if there's nobody -->
-{% if people_in_role.size == 0 %}
+{% if people_in_role.size < 0 %}
   {% continue %}
 {% endif %}
 
