@@ -1,7 +1,7 @@
 ---
 name: Dongkok Kim
 position: grad
-avatar: dongkok_kim.jpg
+avatar: dongkok_kim.png
 twitter:
 joined: 2021
 ---
@@ -10,31 +10,13 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `cruithne33@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 314 <br> 
-
-<hr>
-
-Hi. I'm Ph.D student~~~ <br>
- 
-<hr>
-
-### Academic Positions
-
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
-<hr>
-
-### Education
-
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
+<i class="fa fa-envelope-o"></i>  `cruithne33@gmail.com`<br>
+<i class="fa fa-building"></i> Building 19 Room 204 <br> 
 
 <hr>
 
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* Metrology system for multi-object spectrograph
+* Mock data
+* ISW effect
