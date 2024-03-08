@@ -17,7 +17,7 @@ joined: 2022
 
 ### Education
 
-* B.S. in Astronomy and Physics, Seoul National University (2024.02)
+* B.S. in Astronomy and Physics, Seoul National University (2024.02; double major)
 
 <hr>
 
