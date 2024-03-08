@@ -1,7 +1,7 @@
 ---
 name: Minseong Kwon
 position: grad
-avatar: minseong_kwon.jpg
+avatar: minseong_kwon.png
 twitter:
 joined: 2023
 ---
@@ -11,31 +11,11 @@ joined: 2023
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `mhee7173@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 214 <br> 
-
-<hr>
-
-Hi. I'm Master student~~ <br>
- 
-<hr>
-
-### Academic Positions
-
-* Postdoctoral Researcher~ (2024.01 ~ Present)
-* ~~
-
-<hr>
-
-### Education
-
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
+<i class="fa fa-building"></i> Building 19 <br> 
 
 <hr>
 
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* Dark energy equation of state
+* (Star-less) Dark galaxies 
