@@ -24,4 +24,4 @@ joined: 2022
 ### Research Interests
 
 * Observational Cosmology
-* Large Scale Structures
+* Dark Matter only large scale structures
