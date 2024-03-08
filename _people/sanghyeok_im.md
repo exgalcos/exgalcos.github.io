@@ -15,6 +15,17 @@ joined: 2021
 
 <hr>
 
+### Education
+
+* Ph.D student in Astronomy Program, Department of Physics and Astronomy, Seoul National University (2021.03 ~ )
+* B.S. in Astronomy and Atmospheric Sciences, Kyungpook National University, Korea (2021.02; double major)
+* B.S. in Physics, Kyungpook National University, Korea (2021.02; double major)
+
+<hr>
+
 ### Research Interests
 
 * Large-scale structures of the universe
+* Observational cosmology
+* Environmental effects on galaxy properties
+* Formation and evolution of proto-clusters
