@@ -1,7 +1,7 @@
 ---
 name: Jiwon Jang
 position: under
-avatar: jiwon_jang.jpg
+avatar: jiwon_jang.jpeg
 twitter:
 joined: 2022
 ---
