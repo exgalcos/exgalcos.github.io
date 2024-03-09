@@ -11,8 +11,8 @@ Welcome Yonguk Cho! New member joined our team.
 **March 4, 2024**
 Welcome Yigon, Hyein! New member joined our team.
 
-**April 12, 2025**
+**February 20, 2024**
 Congratulations! Gain's first paper published!
 
-**April 12, 2025**
+**January 29, 2024**
 2024 SSG(Survey Science Group) Workshop at High1 Resort
