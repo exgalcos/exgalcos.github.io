@@ -15,20 +15,7 @@ joined: 2022
 
 <hr>
 
-Hi. I am a undergraduate intern student in SNU ExgalCos Team.
-
-<hr>
-
-### Education
-
-* Seoul National University (2022.03 ~ Present)
-    - M.S. in Statistics (yet)
-* Seoul National University 
-    - B.S. in Astronomy and Physics
-
-<hr>
-
 ### Research Interests
 
-* Observational Cosmology
-* Large Scale Structures
+* CCD/Spectroscope characteristics test for K-SPEC 
+* Intergalactic star with GAIA DR3
