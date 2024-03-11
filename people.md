@@ -52,13 +52,13 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-| [Jae Won Lee] (personal cv page link) | Undergraduate Intern (?) | Graduate Student, SNU |
-| [Tae Wan Kim] (personal cv page link) | Undergraduate Intern (?) | Graduate Student, SNU |
-| [Jae Yeon (Marcie) Mun] (personal cv page link) | MS Student (?) | |
-| [Byungmoo Lim] (personal cv page link) | Undergraduate Intern (2022 - 2022) | |
-| [Hanbee Seo] (personal cv page link) | Undergraduate Intern (2022 - 2022) | |
+| Who are they | When were they here | Where they went | Contact |
+| :------------- |:-------------| :-----------| :-----------|
+| Jae Won Lee | Undergraduate Intern (?) | Graduate Student, SNU | jwon3867@gmail.com |
+| Tae Wan Kim | Undergraduate Intern (?) | Graduate Student, SNU | ktw8517@snu.ac.kr |
+| Jae Yeon (Marcie) Mun | MS Student (?) | Graduate Student, ANU | jaeyeon.mun@anu.edu.au |
+| Byungmoo Lim | Undergraduate Intern (2022 - 2022) | | byungmoolim@postech.ac.kr |
+| Hanbee Seo | Undergraduate Intern (2022 - 2022) | | hs223@st-andrews.ac.uk |
 
 {% endif %}
 {% endfor %}
