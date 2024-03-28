@@ -5,6 +5,9 @@ permalink: /news/
 
 ## **News**
 
+**April 1, 2024**
+Welcome Jeong Hwan Lee! New member joined our team.
+
 **March 8, 2024**
 Welcome Yonguk Cho! New member joined our team.
 
