@@ -23,5 +23,5 @@ Kang, W., Hwang, H. S. et al.,<br>
 
 * Morphology of Galaxies in JWST Fields: Initial distribution and Evolution of Galaxy Morphology,<br>
 Lee, J. H, Park, C., Hwang, H. S., Kwon, M.,<br>
-2023, ApJ, submitted [(arXiv:2312.04899)(https://ui.adsabs.harvard.edu/abs/2024ApJ...966..113L/abstract)]
+2023, ApJ, submitted [(arXiv:2312.04899)](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..113L/abstract)
 
