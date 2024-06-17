@@ -5,6 +5,9 @@ permalink: /news/
 
 ## **News**
 
+**June 17, 2024**
+Welcome Avery Abramson! New member joined our team.
+
 **April 1, 2024**
 Welcome Jeong Hwan Lee! New member joined our team.
 
