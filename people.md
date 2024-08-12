@@ -54,7 +54,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went | Contact |
 | :------------- |:-------------| :-----------| :-----------|
-| Avery Abramson | Undergraduate Intern | | |
+| Avery Abramson | Undergraduate Intern | | aabramson@utexas.edu |
 | Yonguk Cho | Undergraduate Intern | | |
 | Jae Won Lee | Undergraduate Intern (?) | Graduate Student, SNU | jwon3867@gmail.com |
 | Tae Wan Kim | Undergraduate Intern (?) | Graduate Student, SNU | ktw8517@snu.ac.kr |
