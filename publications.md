@@ -8,7 +8,6 @@ permalink: /publication/
 ### [_Full Publication List_](https://hwanghs.github.io/publications) 
 
 ###  _Recent Papers_
-
 * Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced,<br>
 Jeong, D., Hwang, H. S., Chung, H., Yoon, Y.,<br>
 2024, ApJ, submitted
