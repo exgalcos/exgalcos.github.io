@@ -55,7 +55,7 @@ permalink: /people/
 | Who are they | When were they here | Where they went | Contact |
 | :------------- |:-------------| :-----------| :-----------|
 | Avery Abramson | Undergraduate Intern | | aabramson@utexas.edu |
-| Yonguk Cho | Undergraduate Intern | | |
+| Yonguk Cho | Undergraduate Intern | | john071200@khu.ac.kr |
 | Jae Won Lee | Undergraduate Intern (?) | Graduate Student, SNU | jwon3867@gmail.com |
 | Tae Wan Kim | Undergraduate Intern (?) | Graduate Student, SNU | ktw8517@snu.ac.kr |
 | Jae Yeon (Marcie) Mun | MS Student (?) | Graduate Student, ANU | jaeyeon.mun@anu.edu.au |
