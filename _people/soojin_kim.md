@@ -1,9 +1,9 @@
 ---
 name: Soojin Kim
-position: under
+position: grad
 avatar: soojin_kim.jpg
 twitter:
-joined: 2022
+joined: 2024
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -11,7 +11,7 @@ joined: 2022
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `pesa11@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 305 <br> 
+<i class="fa fa-building"></i> Building 19 Room 212A <br> 
 
 <hr>
 
