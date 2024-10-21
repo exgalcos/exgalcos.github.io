@@ -1,9 +1,9 @@
 ---
 name: Daeun Jeong
-position: grad
+position: int
 avatar: daeun_jeong.jpg
 twitter:
-joined: 2021
+joined: 2021.09
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
