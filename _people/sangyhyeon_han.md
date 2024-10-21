@@ -1,9 +1,9 @@
 ---
 name: Sang Hyeon Han
-position: grad
+position: int
 avatar: sanghyeon_han.jpg
 twitter:
-joined: 2022
+joined: 1
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
