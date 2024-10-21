@@ -1,6 +1,6 @@
 ---
 name: Yigon Kim
-position: grad
+position: phd
 avatar: yigon_kim.jpg
 twitter:
 joined: 2024
