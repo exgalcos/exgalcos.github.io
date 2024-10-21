@@ -3,7 +3,7 @@ name: Bunkhuoch Ann
 position: int
 avatar: ann.jpeg
 twitter:
-joined: 2024.5
+joined: 2024.6
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
