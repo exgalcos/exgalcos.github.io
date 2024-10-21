@@ -1,9 +1,9 @@
 ---
 name: Gain Lee
-position: grad
+position: phd
 avatar: gain_lee.jpeg
 twitter:
-joined: 2021
+joined: 2021.5
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
