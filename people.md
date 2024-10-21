@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|grad|under|former" | split: "|" %}
+{% assign role_array = "pi|postdoc|phd|int|under|former" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -20,8 +20,10 @@ permalink: /people/
 <h3>Profressor</h3>
 {% elsif role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
-{% elsif role == 'grad' %}
-<h3>Graduate Students</h3>
+{% elsif role == 'phd' %}
+<h3>PhD Course</h3>
+{% elsif role == 'int' %}
+<h3>Integrated MS/PhD Course</h3>
 {% elsif role == 'under' %}
 <h3>Undergraduate Students</h3>
 {% elsif role == 'former' %}
@@ -52,15 +54,16 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went | Contact |
+| Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------| :-----------|
-| Avery Abramson | Undergraduate Intern | | aabramson@utexas.edu |
-| Yonguk Cho | Undergraduate Intern | | john071200@khu.ac.kr |
-| Jae Won Lee | Undergraduate Intern (?) | Graduate Student, SNU | jwon3867@gmail.com |
-| Tae Wan Kim | Undergraduate Intern (?) | Graduate Student, SNU | ktw8517@snu.ac.kr |
-| Jae Yeon (Marcie) Mun | MS Student (?) | Graduate Student, ANU | jaeyeon.mun@anu.edu.au |
-| Byungmoo Lim | Undergraduate Intern (2022 - 2022) | | byungmoolim@postech.ac.kr |
-| Hanbee Seo | Undergraduate Intern (2022 - 2022) | | hs223@st-andrews.ac.uk |
+| Wooseok Kang | Undergraduate Intern (2021.12 - 2024.08) | |
+| Avery Abramson | Undergraduate Intern (2024.06 - 07) | | 
+| Yonguk Cho | Undergraduate Intern (2024.03 - 06) | | 
+| Jae Won Lee | Undergraduate Intern (2022.03 - 08) | Graduate Student, SNU | 
+| Tae Wan Kim | Undergraduate Intern (2021.07 - 2023.02) | Graduate Student, SNU | 
+| Jae Yeon (Marcie) Mun | MS Student | Graduate Student, ANU | 
+| Byungmoo Lim | Undergraduate Intern (2023.06 - 08) | | 
+| Hanbee Seo | Undergraduate Intern (2023.06 - 07) | | 
 
 {% endif %}
 {% endfor %}
