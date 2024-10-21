@@ -1,7 +1,7 @@
 ---
 name: Bunkhuoch Ann
 position: int
-avatar: ann.jpg
+avatar: ann.jpeg
 twitter:
 joined: 2024.5
 ---
