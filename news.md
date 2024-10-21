@@ -5,6 +5,12 @@ permalink: /news/
 
 ## **News**
 
+**September 13, 2024**
+Congratulations! Prof. Hwang received 2024 SNU College of Natural Science Excellent Research Award. 
+
+**September 1, 2024**
+Welcome Soojin Kim, Bunkhouch Ann! New graduate students joined our team.
+
 **June 17, 2024**
 Welcome Avery Abramson! New member joined our team.
 
