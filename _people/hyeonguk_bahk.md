@@ -1,9 +1,9 @@
 ---
 name: Hyeonguk Bahk
-position: grad
+position: int
 avatar: hyeonguk_bahk.jpeg
 twitter:
-joined: 2021
+joined: 2021.5
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
