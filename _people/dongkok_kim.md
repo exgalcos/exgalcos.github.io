@@ -1,9 +1,9 @@
 ---
 name: Dongkok Kim
-position: grad
+position: phd
 avatar: dongkok_kim.png
 twitter:
-joined: 2021
+joined: 1
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
