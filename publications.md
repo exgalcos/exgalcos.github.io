@@ -9,6 +9,14 @@ permalink: /publication/
 
 ###  _Recent Papers_
 
+14\. Galaxy populations in protoclusters at cosmic noon, <br>
+Andrews, M., et al. (Hwang, H. S.), <br>
+2024, to be submitted to A&A [(arXiv:2410.08412)](https://ui.adsabs.harvard.edu/abs/2024arXiv241008412A/abstract)
+
+13\. Understanding the Radial Acceleration Relation of Dwarf Galaxies with Emergent Gravity, <br>
+Han, S.,  Hwang, H. S.,  Yoon, Y.,<br>
+2024, submitted in JKAS [(arXiv:2409.16655)](https://ui.adsabs.harvard.edu/abs/2024arXiv240916655H/abstract)
+
 12\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced,<br>
 Jeong, D., Hwang, H. S., Chung, H., Yoon, Y.,<br>
 2024, ApJ, submitted
