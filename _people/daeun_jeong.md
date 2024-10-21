@@ -3,7 +3,7 @@ name: Daeun Jeong
 position: int
 avatar: daeun_jeong.jpg
 twitter:
-joined: 2021.09
+joined: 2021.5
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
