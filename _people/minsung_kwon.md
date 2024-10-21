@@ -1,6 +1,6 @@
 ---
 name: Minseong Kwon
-position: grad
+position: int
 avatar: minseong_kwon.png
 twitter:
 joined: 2023
