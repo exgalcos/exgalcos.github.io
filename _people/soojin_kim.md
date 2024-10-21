@@ -1,9 +1,9 @@
 ---
 name: Soojin Kim
-position: grad
+position: int
 avatar: soojin_kim.jpg
 twitter:
-joined: 2024
+joined: 2024.5
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
