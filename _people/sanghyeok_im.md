@@ -12,6 +12,7 @@ joined: 2021
 
 <i class="fa fa-envelope-o"></i>  `tkdgur0117@gmail.com`<br>
 <i class="fa fa-building"></i> Building 19 Room 214 <br> 
+<a href="https://imsang97.github.io"><i class="fa fa-home" aria-hidden="true"></i> Sang Hyeok Im </a><br>
 
 <hr>
 
