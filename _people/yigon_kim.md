@@ -10,7 +10,7 @@ joined: 2024
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `yigon@outlook.com`<br>
+<i class="fa fa-envelope-o"></i>  `yigon28@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Building 19 Room 304 <br> 
  
 <hr>
