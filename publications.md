@@ -42,7 +42,7 @@ Kim, T., Hwang, H. S., et al.,<br>
 
 14\. Resolved Stellar Mass Estimation of Nearby Late-type Galaxies for the SPHEREx Era: Dependence on Stellar Population Synthesis Models,<br>
 Lee, J.H., (Hwang, H. S.), et al., <br>
-2025, AJ, in press
+2025, AJ, in press [(arXiv:2502.01978)](https://ui.adsabs.harvard.edu/abs/2025arXiv250201978L/abstract)
 
 ###  _2025_
 13\. Development of Robotic Fiber Positioner and Path Planning Algorithm for Multi-object Spectroscopy, <br>
