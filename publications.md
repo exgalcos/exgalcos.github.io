@@ -8,10 +8,6 @@ permalink: /publication/
 ### [_Full Publication List_](https://hwanghs.github.io/publications) 
 
 ###  _Recent Papers_
-23\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
-Kwon, M., (Hwang, H. S.), et al., <br>
-2025, ApJS, submitted
-
 22\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
 Kang, W., (Hwang, H. S.), Okabe, N., Park, C., <br>
 2025, ApJS, submitted
