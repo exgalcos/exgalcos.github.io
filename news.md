@@ -4,6 +4,9 @@ permalink: /news/
 ---
 
 ## **News**
+**November 29, 2024**
+Dr. Hyein Yoon receives the [2024 Future Talent Award from the Korean Federation of Women’s Science and Technology Associations](https://www.kofwst.org/kr/notice/notice.php?bgu=view&bbs_data=aWR4PTExMTQyJnN0YXJ0UGFnZT0mbGlzdE5vPSZ0YWJsZT0mY29kZT1ub3RpY2Umc2VhcmNoX2l0ZW09JnNlYXJjaF9vcmRlcj0=%7C%7C&ckattempt=1)! Congratulations! 
+
 
 **November 15, 2024**
 Graduate student Gain Lee’s recent work has been featured in the November issue of [Epsiloon](https://www.epsiloon.com/tous-les-numeros/n41/voici_les_galaxies_noires/). Congratulations on this wonderful accomplishment! [Read the full paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ad1e5d)
