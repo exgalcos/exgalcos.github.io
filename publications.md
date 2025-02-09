@@ -59,7 +59,7 @@ Ramakrishnan, V., et al. (Hwang, H. S.), <br>
 [2024, ApJ, 977, 119](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..119R/abstract)
 
 10\. Inferring Cosmological Parameters on SDSS via Domain-generalized Neural Networks and Light-cone Simulations, <br>
-Lee, J., et al. (Hwang, H. S.), <br>
+Lee, J. -Y., et al. (Hwang, H. S.), <br>
 [2024, ApJ, 975, 38](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...38L/abstract)
 
 9\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,<br>
