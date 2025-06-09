@@ -30,7 +30,7 @@ Kim, T., Sohn, J., Hwang, H. S.,<br>
 
 24\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
 Kang, W., (Hwang, H. S.), Okabe, N., Park, C., <br>
-2025, ApJS, in press [(arXiv:2504.05616)])(https://ui.adsabs.harvard.edu/abs/2025arXiv250405616K/abstract)
+2025, ApJS, in press [(arXiv:2504.05616)](https://ui.adsabs.harvard.edu/abs/2025arXiv250405616K/abstract)
 
 23\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5,<br>
 Herrera, D., et al. (Hwang, H. S.),<br>
