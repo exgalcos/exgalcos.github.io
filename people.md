@@ -56,14 +56,14 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------| :-----------|
-| Wooseok Kang | Undergraduate Intern (2021.12 - 2024.08) | |
+| Wooseok Kang | Undergraduate Intern (2021.12 - 2024.08) | Graduate Student, UChicago |
 | Avery Abramson | Undergraduate Intern (2024.06 - 07) | | 
-| Yonguk Cho | Undergraduate Intern (2024.03 - 06) | | 
+| Yonguk Cho | Undergraduate Intern (2024.03 - 06) | Graduate Student, UST | 
 | Jae Won Lee | Undergraduate Intern (2022.03 - 08) | Graduate Student, SNU | 
 | Tae Wan Kim | Undergraduate Intern (2021.07 - 2023.02) | Graduate Student, SNU | 
-| Jae Yeon (Marcie) Mun | MS Student | Graduate Student, ANU | 
+| Jae Yeon (Marcie) Mun | MS Student | Postdoc, IAP | 
 | Byungmoo Lim | Undergraduate Intern (2023.06 - 08) | | 
-| Hanbee Seo | Undergraduate Intern (2023.06 - 07) | | 
+| Hanbee Seo | Undergraduate Intern (2023.06 - 07) |  | 
 
 {% endif %}
 {% endfor %}
