@@ -16,7 +16,7 @@ Kim, S., et al. (Hwang, H. S.),<br>
 Jang, J., Choi, C., Hwang, H. S., et al.,<br>
 2025, JKAS, submitted
 
-36\. ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
+36\. ODIN: Searching for LyC emission from Lyman- $\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
 Seo, E., et al. (Hwang, H. S.),<br>
 2025, ApJ, submitted
 
