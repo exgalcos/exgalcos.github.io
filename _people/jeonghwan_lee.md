@@ -11,7 +11,7 @@ joined: 2024
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `joungh93@gmail.com`<br>
-<i class="fa fa-building"></i> Building 19 <br> 
+<i class="fa fa-building"></i> Building 19 Room 203D <br> 
 
 <hr>
 
