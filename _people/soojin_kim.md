@@ -1,6 +1,6 @@
 ---
 name: Soojin Kim
-position: int
+position: master
 avatar: soojin_kim.jpg
 twitter:
 joined: 2024.5
