@@ -11,7 +11,7 @@ joined: 2024.5
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `pesa11@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 212A <br> 
+<i class="fa fa-building"></i> Building 19 Room 212B <br> 
 
 <hr>
 
