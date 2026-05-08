@@ -1,7 +1,7 @@
 ---
 name: Sungeun Lee
 position: under
-avatar: dongkok_kim.jpg
+avatar: dongkok_kim.png
 twitter:
 joined: 2025.6
 ---
