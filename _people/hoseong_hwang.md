@@ -16,7 +16,8 @@ _Associate Professor, Astronomy Program, Department of Physics and Astronomy, Se
 <hr> 
 
 ### Academic Positions
-* Associate Professor, Seoul National University/서울대학교, Korea (2021.03 - Present)
+* Professor, Seoul National University/서울대학교, Korea (2026.03 - Present)
+* Associate Professor, Seoul National University/서울대학교, Korea (2021.03 - 2026.02)
 * Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea (2018.12 - 2021.02) 
 * Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea (2014.09 - 2018.12)
 * Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA (2011-10 - 2014.08)
