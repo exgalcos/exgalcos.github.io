@@ -12,6 +12,7 @@ joined: 2024.5
 
 <i class="fa fa-envelope-o"></i>  `pesa11@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Building 19 Room 212B <br> 
+<a href="https://pesa11.github.io"><i class="fa fa-home" aria-hidden="true"></i> Website </a><br>
 
 <hr>
 
