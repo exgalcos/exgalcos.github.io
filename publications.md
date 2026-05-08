@@ -8,37 +8,90 @@ permalink: /publication/
 ### [_Full Publication List_](https://hwanghs.github.io/publications) 
 
 ###  _Recent Papers_
-38\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster,<br>
+51\. Unveiling the Flat Rotation Curves of Galaxies out to 1Mpc in a Simulated LCDM Universe,<br>
+Jeong, D., (Hwang, H. S.), et al.,<br>
+2026, ApJ, submitted
+
+50\. An Enhanced Catalog of Gaia DR3 Galaxy Candidates with Spectroscopic and Machine-Learning Photometric Redshifts,<br>
+Hwang, J., (Hwang, H. S.),<br>
+2026, JKAS, submitted
+
+49\. ODIN: Spectroscopic Validation of Lyα-Emitting Galaxy Samples with DESI,<br>
+Pinarski, E., et al. (Hwang, H. S.),<br>
+2026, ApJ, submitted [(arXiv:2603.09905)](https://ui.adsabs.harvard.edu/abs/2026arXiv260309905P/abstract)
+
+48\. ODIN: Confirmation and 3D Reconstruction of Six Massive Protoclusters at Cosmic Noon,<br>
+Ortiz, A., et al. (Hwang, H. S.),<br>
+2026, ApJ, submitted [(arXiv:2603.09739)](https://ui.adsabs.harvard.edu/abs/2026arXiv260309739O/abstract)
+
+47\. Evolution of submillimeter galaxies across cosmic-web environments,<br>
+Kumar, A., et al. (Hwang, H. S.),<br>
+2026, A&A, submitted [(arXiv:2602.11751)](https://ui.adsabs.harvard.edu/abs/2026arXiv260211751K/abstract)
+
+46\. ODIN: Clustering Properties of Lyα Blobs at z∼2.4 and 3.1,<br>
+Moon, B., et al. (Hwang, H. S.),<br>
+2025, ApJ, submitted [(arXiv:2601.01991)](https://ui.adsabs.harvard.edu/abs/2026arXiv260101991M/abstract)
+
+45\. Comparison of MOND and Verlinde’s emergent gravity in dwarf spheroidals,<br>
+Yoon, Y., Han, S., Hwang, H. S.,<br>
+2025, PRD, submitted [(arXiv:2601.01715)](https://ui.adsabs.harvard.edu/abs/2026arXiv260101715Y/abstract)
+
+44\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs,<br>
+Uzsoy, V., et al. (Hwang, H. S.),<br>
+2025, ApJ, submitted [(arXiv:2511.17498)](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U/abstract)
+
+43\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1,<br>
+Ramakrishnan, V., et al. (Hwang, H. S.),<br>
+2025, ApJ, submitted [(arXiv:2511.11826)](https://ui.adsabs.harvard.edu/abs/2025arXiv251111826R/abstract)
+
+42\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster,<br>
 Kim, S., et al. (Hwang, H. S.),<br>
-2025, ApJ, submitted [(arXiv:2511.02323)](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
+2026, ApJ, in press [(arXiv:2511.02323)](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
 
-37\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph,<br>
-Jang, J., Choi, C., Hwang, H. S., et al.,<br>
-2025, JKAS, submitted
-
-36\. ODIN: Searching for LyC emission from Lyman- $\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
+41\. ODIN: Searching for LyC emission from Lyman- $\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
 Seo, E., et al. (Hwang, H. S.),<br>
-2025, ApJ, submitted
+2026, ApJ, in press
 
-35\. ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos,<br>
-Cerdosino, C., et al. (Hwang, H. S.),<br>
-2025, A&A, submitted [(arXiv:2511.01981)](https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract)
-
-34\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model,<br>
+40\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model,<br>
 Kim, H., et al. (Hwang, H. S.),<br>
-2025, A&A, submitted
+2026, A&A, in press [(arXiv:2603.10319)](https://ui.adsabs.harvard.edu/abs/2026arXiv260310319K/abstract)
+
+39\. K-DRIFT Science Theme: Galaxies in the Faint Universe,<br>
+Byun, W., et al. (Hwang, H. S.),<br>
+2026, JKAS, in press [(arXiv:2602.08283)](https://ui.adsabs.harvard.edu/abs/2026arXiv260208283B/abstract)
+
+###  _2026_
+38\. A Redshift Survey of the Nearby Galaxy Cluster Abell 2199: No Upturn of the Faint-End Slope of Galaxy Luminosity Function,<br>
+Park, J.-I., Song, H., Hwang, H. S.,<br>
+[2026, JKAS, 59, 33](https://ui.adsabs.harvard.edu/abs/2026JKAS...59...33P/abstract)
+
+37\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps,<br>
+Kim, S., Hwang, H. S., Jeffrey, N.,<br>
+[2026, ApJS, 282, 23](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...23K/abstract))
+
+36\. ODIN: A New Lyα Blob Selection Method, Sample, and Statistical Analysis at z ∼ 3.1,<br>
+Moon, B., et al. (Hwang, H. S.),<br>
+[2026, ApJ, 998, 345](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..345M/abstract)
+
+35\. The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS),<br>
+Bae, J., et al. (Hwang, H. S.),<br>
+[2026, A&A, 706, 347](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A.347B/abstract)
+
+34\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph,<br>
+Jang, J., Choi, C., Hwang, H. S., et al.,<br>
+[2026, JKAS, 59, 11](https://ui.adsabs.harvard.edu/abs/2026JKAS...59...11J/abstract)
 
 33\. A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy,<br>
 Kwon, M., Hwang, H. S., et al.,<br>
-2025, JKAS, submitted
+[2026, JKAS, 59, 1](https://ui.adsabs.harvard.edu/abs/2026JKAS...59....1K/abstract)
 
-32\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps,<br>
-Kim, S., Hwang, H. S., Jeffrey, N.,<br>
-2025, ApJ, in press [(arXiv:2509.25836)](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract)
-
-31\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning,<br>
+32\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning,<br>
 Dupuy, A., et al. (Hwang, H. S.),<br>
-2025, ApJ, in press [(arXiv:2511.03919)](https://arxiv.org/abs/2511.03919)
+[2026, ApJ, 997, 59](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...59D/abstract)
+
+31\. ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos,<br>
+Cerdosino, C., et al. (Hwang, H. S.),<br>
+[2026, A&A, 706, 24](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A..24C/abstract))
 
 ###  _2025_
 30\. High school students’ attitude toward astronomy and science after the participation in the citizen science activity `Mission Galaxy’ project,<br>
