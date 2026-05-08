@@ -5,7 +5,7 @@ permalink: /news/
 
 ## **News**
 **February, 2026**
-Congratulations to Donguk and Sanghyeon on successfully defending their PhD theses! We are proud to celebrate our lab’s first PhDs.
+Congratulations to Dongkuk and Sang Hyeon on successfully defending their PhD theses! We are proud to celebrate our lab’s first PhDs.
 
 **July 22, 2025**
 Graduate student Minsung Kwon’s recent work on dark galaxy candidates has been featured in [Newspaper](https://www.unipress.co.kr/news/articleView.html?idxno=12864). Congratulations, Minsung!
