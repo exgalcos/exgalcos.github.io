@@ -11,13 +11,13 @@ joined: 2024.6
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `bunkhuochann@gmail.com`<br>
-<i class="fa fa-building"></i> Building 19 Room 214 <br> 
+<i class="fa fa-building"></i> Building 19 Room 204 <br> 
 
 <hr>
 
 ### Education
 
-* B.S. Physics at Royal University of Phnom Penh, Cambodia (2023,07).
+* B.S. Physics at Royal University of Phnom Penh, Cambodia (2023.07).
 
 <hr>
 
