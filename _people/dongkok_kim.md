@@ -11,7 +11,7 @@ joined: 2021
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `cruithne33@gmail.com`<br>
-<i class="fa fa-building"></i> Building 19 Room 204 <br> 
+<i class="fa fa-building"></i> Building 19 Room 212A <br> 
 
 <hr>
 
