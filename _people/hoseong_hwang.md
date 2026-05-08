@@ -6,7 +6,7 @@ avatar: hoseong_hwang.jpeg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Associate Professor, Astronomy Program, Department of Physics and Astronomy, Seoul National University_<br>
+_Professor, Astronomy Program, Department of Physics and Astronomy, Seoul National University_<br>
 
 ### Contact
 <i class="fa fa-envelope-o"></i> `galaxy79@snu.ac.kr`<br>
