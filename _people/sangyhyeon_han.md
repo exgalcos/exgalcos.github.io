@@ -1,6 +1,6 @@
 ---
 name: Sang Hyeon Han
-position: int
+position: postdoc
 avatar: sanghyeon_han.jpg
 twitter:
 joined: 1
