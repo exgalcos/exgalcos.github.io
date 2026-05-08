@@ -3,7 +3,7 @@ name: Sang Hyeon Han
 position: postdoc
 avatar: sanghyeon_han.jpg
 twitter:
-joined: 1
+joined: 2022
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
