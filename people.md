@@ -24,6 +24,8 @@ permalink: /people/
 <h3>PhD Course</h3>
 {% elsif role == 'int' %}
 <h3>Integrated MS/PhD Course</h3>
+{% elsif role == 'master' %}
+<h3>MS Course</h3>
 {% elsif role == 'under' %}
 <h3>Undergraduate Students</h3>
 {% elsif role == 'former' %}
