@@ -11,7 +11,7 @@ joined: 2022
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `chzg1@snu.ac.kr`<br>
-<i class="fa fa-building"></i> Building 19 Room 214 <br> 
+<i class="fa fa-building"></i> Building 19 Room 206 <br> 
 
 <hr>
 
