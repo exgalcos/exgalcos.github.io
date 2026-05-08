@@ -1,6 +1,6 @@
 ---
 name: Dongkok Kim
-position: phd
+position: postdoc
 avatar: dongkok_kim.png
 twitter:
 joined: 2021
