@@ -17,7 +17,7 @@ joined: 1
 
 ### Education
 
-* Ph.D student in Dept. of Physics and Astronomy, Seoul National University, Seoul (2017.03 - Present)
+* Ph.D student in Dept. of Physics and Astronomy, Seoul National University, Seoul (2017.03 - 2026.02)
 * B.S in Dept. of Applied Physics, Hanyang University ERICA, Ansan (2012.03 - 2016.02)
 
 <hr>
