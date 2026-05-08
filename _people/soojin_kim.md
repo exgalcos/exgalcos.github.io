@@ -25,3 +25,5 @@ joined: 2024.5
 
 * Observational Cosmology
 * Dark Matter only large scale structures
+* Weak Gravitational Lensing
+* Galaxy Clusters
