@@ -56,6 +56,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------| :-----------|
+| Hyein Yoon | Postdoc (2023.12 - 2026.02) | KASI |
+| Jiwon Jang | Undergraduate Intern (2022.12 - 2026.02) | Post-Bacc, KAIST |
 | Wooseok Kang | Undergraduate Intern (2021.12 - 2024.08) | Graduate Student, UChicago |
 | Avery Abramson | Undergraduate Intern (2024.06 - 07) | | 
 | Yonguk Cho | Undergraduate Intern (2024.03 - 06) | Graduate Student, UST | 
