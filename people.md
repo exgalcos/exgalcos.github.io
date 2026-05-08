@@ -17,7 +17,7 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'pi' %}
-<h3>Profressor</h3>
+<h3>Professor</h3>
 {% elsif role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
 {% elsif role == 'phd' %}
