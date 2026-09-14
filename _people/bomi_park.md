@@ -1,8 +1,7 @@
 
----
 name: Bomi Park
 position: postdoc
-avatar: 
+avatar: bomi_park.png
 twitter:
 joined: 2026
 ---
@@ -11,9 +10,10 @@ joined: 2026
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  <br>
+<i class="fa fa-envelope-o"></i> <br>
 <i class="fa fa-building"></i>  <br> 
 
 <hr>
 
 ### Research Interests
+
