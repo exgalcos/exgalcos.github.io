@@ -44,23 +44,30 @@ Uzsoy, V., et al. (Hwang, H. S.),<br>
 Ramakrishnan, V., et al. (Hwang, H. S.),<br>
 2025, ApJ, submitted [(arXiv:2511.11826)](https://ui.adsabs.harvard.edu/abs/2025arXiv251111826R/abstract)
 
-42\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster,<br>
-Kim, S., et al. (Hwang, H. S.),<br>
-2026, ApJ, in press [(arXiv:2511.02323)](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
 
-41\. ODIN: Searching for LyC emission from Lyman- $\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
-Seo, E., et al. (Hwang, H. S.),<br>
-2026, ApJ, in press
 
-40\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model,<br>
+
+###  _2026_
+43\. ODIN: Clustering Properties of Lyα Blobs at z∼2.4 and 3.1,<br>
+Moon, B., et al. (Hwang, H. S.),<br>
+[2026, ApJ, 1004, 122]
+
+42\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model,<br>
 Kim, H., et al. (Hwang, H. S.),<br>
-2026, A&A, in press [(arXiv:2603.10319)](https://ui.adsabs.harvard.edu/abs/2026arXiv260310319K/abstract)
+[2026, A&A, 708, A262]
+
+41\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster,<br>
+Kim, S., et al. (Hwang, H. S.),<br>
+[2026, ApJ, 1003, 16]
+
+40\. ODIN: Searching for LyC emission from Lyman- $\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields,<br>
+Seo, E., et al. (Hwang, H. S.),<br>
+[2026, ApJ, 1001, 224]
 
 39\. K-DRIFT Science Theme: Galaxies in the Faint Universe,<br>
 Byun, W., et al. (Hwang, H. S.),<br>
-2026, JKAS, in press [(arXiv:2602.08283)](https://ui.adsabs.harvard.edu/abs/2026arXiv260208283B/abstract)
+[2026, JKAS, 59, 117]
 
-###  _2026_
 38\. A Redshift Survey of the Nearby Galaxy Cluster Abell 2199: No Upturn of the Faint-End Slope of Galaxy Luminosity Function,<br>
 Park, J.-I., Song, H., Hwang, H. S.,<br>
 [2026, JKAS, 59, 33](https://ui.adsabs.harvard.edu/abs/2026JKAS...59...33P/abstract)
