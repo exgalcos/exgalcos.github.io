@@ -58,6 +58,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------| :-----------|
+| Soojin Kim | MS Student (2024.9 - 2026.08) |PhD Student, UChicago |
+| Sanghyun Han | PhD Student (2022 - 2026.02) |Postdoc, Sejong Univ. |
 | Gene Yun | Undergraduate Intern (2025.06 - 2026.03) | |
 | Hyein Yoon | Postdoc (2023.12 - 2026.02) | KASI |
 | Jiwon Jang | Undergraduate Intern (2022.12 - 2026.02) | Post-Bacc, KAIST |
