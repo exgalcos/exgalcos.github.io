@@ -1,7 +1,7 @@
 
 ---
 name: Bomi Park
-position: 
+position: postdoc
 avatar: 
 twitter:
 joined: 2026
