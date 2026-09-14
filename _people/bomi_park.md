@@ -1,4 +1,4 @@
-
+---
 name: Bomi Park
 position: postdoc
 avatar: bomi_park.png
