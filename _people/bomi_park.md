@@ -10,8 +10,6 @@ joined: 2026
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> <br>
-<i class="fa fa-building"></i>  <br> 
 
 <hr>
 
