@@ -59,6 +59,8 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------| :-----------|
 | <a href="https://pesa11.github.io"><i class="fa fa-home" aria-hidden="true"></i> Soojin Kim</a><br> | MS Student (2024.9 - 2026.08) | Graduate Student, UChicago |
+| Jimin Kwak | Undergraduate Intern (2026.6 - 2026.08) | |
+| Junghyun Hwang | Undergraduate Intern (2024.3 - 2026.08) | |
 | Sanghyun Han | PhD Student (2022.3 - 2026.06) |Postdoc, Sejong Univ. |
 | Gene Yun | Undergraduate Intern (2025.06 - 2026.03) | |
 | Hyein Yoon | Postdoc (2023.12 - 2026.02) | KASI |
