@@ -12,6 +12,14 @@ joined: 2023
 
 <i class="fa fa-envelope-o"></i>  `mhee7173@snu.ac.kr`<br>
 <i class="fa fa-building"></i> Building 19 Room 314 <br> 
+ 
+<hr>
+
+### Education
+
+* Seoul National University (Ph.D student in Astronomy, 2023.03~Present)
+* Seoul National University (B.S in Physics and Astronomy, 2019.03~2023.02)
+
 
 <hr>
 
