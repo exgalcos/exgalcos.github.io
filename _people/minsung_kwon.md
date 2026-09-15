@@ -27,3 +27,5 @@ joined: 2023
 
 * Dark energy equation of state
 * (Star-less) Dark galaxies 
+* Observational cosmology
+* Cosmological simulations
