@@ -10,8 +10,21 @@ joined: 2026
 
 ### Contact
 
+<i class="fa fa-envelope-o"></i>  `sadalsuud14@gmail.com`<br>
+
+<hr>
+
+
+### Education
+
+* Seoul National University (Ph.D in Astronomy)
+* Kyunghee University (B.S in Space Science)
 
 <hr>
 
 ### Research Interests
 
+* Observational Extragalactic Astronomy
+* Optical Search for Galaxy Clusters
+* X-ray Studies of Galaxy Cluster Dynamical State
+* Environmental Effects on Galaxy Evolution
